@@ -1,0 +1,17 @@
+{
+  "date": "7 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le drôle de tour de Vénus",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Quiz ! Sur Vénus, un tour sur soi-même dure-t-il : A, 1 jour ; B, 1 mois ; ou C, plus qu'une année entière ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! C'est la C."},
+    {"perso": "pepite", "texte": "Impossible ! Plus long qu'une année ? Tu me fais marcher !"},
+    {"perso": "gaston", "texte": "Non. Vénus met 243 jours à tourner sur elle-même, mais seulement 225 jours à faire le tour du Soleil."},
+    {"perso": "gaston", "texte": "Et en plus, elle tourne à l'envers. Là-bas, le Soleil se lève à l'ouest."},
+    {"perso": "pepite", "texte": "Super lente et à contresens ? C'est toi sur un rond-point, Gaston !"},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
