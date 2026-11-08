@@ -1,0 +1,16 @@
+{
+  "date": "8 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le pare-brise givré du matin",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Au secours, je suis devenue un igloo pendant la nuit !"},
+    {"perso": "gaston", "texte": "C'est du givre. Ton humain va gratter."},
+    {"perso": "pepite", "texte": "Il gratte depuis dix minutes avec sa carte de fidélité de la boulangerie !"},
+    {"perso": "gaston", "texte": "Et ça avance ?"},
+    {"perso": "pepite", "texte": "Le pare-brise, pas du tout. Mais la carte est pleine : il a gagné un croissant !"},
+    {"perso": "gaston", "texte": "Et vous, vous grattez avec quoi le matin ? Dites-le en commentaire !"}
+  ]
+}
