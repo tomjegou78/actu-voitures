@@ -1,0 +1,17 @@
+{
+  "date": "8 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "Conférence sociale sur les salaires lundi",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Quiz ! Le Smic net à temps plein, c'est combien par mois ? A : 1300 euros, B : 1478 euros, ou C : 1650 euros ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B, environ 1478 euros. Et lundi, Matignon réunit syndicats et patronat sur les salaires."},
+    {"perso": "pepite", "texte": "Et chacun arrive avec quoi ?"},
+    {"perso": "gaston", "texte": "Le ministre du Travail évoque 1500 euros net. La CFDT demande 100 euros de plus, la CGT 150."},
+    {"perso": "pepite", "texte": "Et les patrons ?"},
+    {"perso": "gaston", "texte": "Ils disent qu'il faut d'abord alléger les charges sur le travail. Rien n'est encore décidé."},
+    {"perso": "pepite", "texte": "Moi, 22 euros de plus, c'est un sapin désodorisant ! Et toi, t'en penses quoi ? Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
