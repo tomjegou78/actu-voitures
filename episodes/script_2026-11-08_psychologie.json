@@ -1,0 +1,63 @@
+{
+ "date": "8 novembre",
+ "titre": "Regarder sans voir",
+ "sujet": "Pourquoi on regarde sans voir au volant",
+ "bandeau": "Psycho en 30 s",
+ "numero": 1,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {
+   "perso": "pepite",
+   "texte": "Pourquoi j'ai raté la sortie alors que je regardais la route ?",
+   "visuel": "route",
+   "effet": "Zioum !",
+   "mot_cle": "raté"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Tu étais au téléphone. Même en kit mains libres.",
+   "visuel": "alerte",
+   "mot_cle": "téléphone"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Ton attention a une seule batterie. La conversation en pompe une grosse partie.",
+   "visuel": "cerveau",
+   "mot_cle": "attention"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Tes yeux voient le panneau, mais ton cerveau ne l'enregistre pas.",
+   "visuel": "cerveau",
+   "effet": "Pouf !",
+   "mot_cle": "enregistre"
+  },
+  {
+   "perso": "pepite",
+   "texte": "Donc pour moi, ce panneau n'a jamais existé ?",
+   "visuel": "pepite",
+   "mot_cle": "existé"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Exactement. Les chercheurs appellent ça la cécité d'inattention.",
+   "visuel": "gaston",
+   "mot_cle": "inattention"
+  },
+  {
+   "perso": "gaston",
+   "texte": "L'astuce : mode ne pas déranger, et tu rappelles une fois garé.",
+   "visuel": "ampoule",
+   "effet": "Clic !",
+   "mot_cle": "garé"
+  },
+  {
+   "perso": "pepite",
+   "texte": "Promis ! Et toi, tu décroches en conduisant ?",
+   "visuel": "duo",
+   "mot_cle": "décroches"
+  }
+ ]
+}
