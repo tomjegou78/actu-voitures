@@ -1,0 +1,18 @@
+{
+  "date": "8 novembre",
+  "titre": "Le mindset des voitures",
+  "sujet": "La règle des deux minutes",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, ça fait trois semaines que je dois ranger mon coffre. Je bloque !"},
+    {"perso": "gaston", "texte": "Classique. Dans ta tête, la tâche est devenue énorme."},
+    {"perso": "pepite", "texte": "Elle EST énorme ! Il y a même une chaussette de 2019 là-dedans."},
+    {"perso": "gaston", "texte": "Alors, règle des deux minutes. Tu commences, juste deux minutes. Pas plus."},
+    {"perso": "pepite", "texte": "Deux minutes ? Mais ça ne range rien, ça !"},
+    {"perso": "gaston", "texte": "Le plus dur, c'est de démarrer. Une fois lancée, tu continues souvent toute seule."},
+    {"perso": "gaston", "texte": "Deux minutes aujourd'hui, deux demain. C'est comme ça qu'on crée une habitude."},
+    {"perso": "pepite", "texte": "Chrono lancé ! Et toi, quelle tâche tu repousses depuis des semaines ? Dis-le en commentaire !"}
+  ]
+}
