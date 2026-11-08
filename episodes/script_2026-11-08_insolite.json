@@ -1,0 +1,30 @@
+{
+  "date": "8 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Plus d'arbres que d'étoiles dans la galaxie",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "gaston",
+      "texte": "Sur Terre, il y a environ 3000 milliards d'arbres !"
+    },
+    {
+      "perso": "pepite",
+      "texte": "Quoi ? Plus que les étoiles de notre galaxie ? Impossible !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Si. La Voie lactée en compte 100 à 400 milliards. Les arbres gagnent largement."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Alors ce soir, au lieu de compter les étoiles, je compte les sapins !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Toi, tu préfères les arbres ou les étoiles ? Dis-le en commentaire !"
+    }
+  ]
+}
