@@ -1,0 +1,15 @@
+{
+  "date": "9 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "Gel des pensions : le Sénat s'en mêle",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "1260 euros ! C'est LE chiffre qui fait débat au Sénat cette semaine !"},
+    {"perso": "gaston", "texte": "Au-dessus, le gouvernement veut geler les pensions en 2027. Pas de hausse avec l'inflation."},
+    {"perso": "pepite", "texte": "Geler ? Brrr, comme mon pare-brise ! Et le Sénat ?"},
+    {"perso": "gaston", "texte": "La majorité sénatoriale propose 1500 euros : 40 % des retraités protégés. La gauche et le RN, eux, veulent supprimer le gel."},
+    {"perso": "pepite", "texte": "Vote au Sénat d'ici le 18 novembre. Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
