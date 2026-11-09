@@ -1,0 +1,17 @@
+{
+  "date": "9 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Combien de jours pour ancrer une habitude",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Une habitude devient automatique en combien de jours ? A : 21 jours, B : 66 jours ou C : un an ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B : 66 jours en moyenne, d'après une étude de l'University College London."},
+    {"perso": "pepite", "texte": "66 ?! Mais moi j'abandonne toujours au bout d'une semaine !"},
+    {"perso": "gaston", "texte": "Alors commence tout petit. Et accroche ta nouvelle habitude à une ancienne, comme lire une page après ton café."},
+    {"perso": "gaston", "texte": "Et si tu rates un jour, ce n'est pas grave. L'étude montre que ça ne casse pas tout. Tu reprends le lendemain."},
+    {"perso": "pepite", "texte": "D'accord. Moi, je commence par faire le plein tous les matins. C'est déjà une habitude, non ?"},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
