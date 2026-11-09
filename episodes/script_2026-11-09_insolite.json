@@ -1,0 +1,18 @@
+{
+  "date": "9 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "L'odeur de la pluie a un nom",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! La pluie, ça sent ! Mais l'eau, ça n'a pas d'odeur, non ?"},
+    {"perso": "gaston", "texte": "Exact. Ce que tu sens, c'est la terre. Ça s'appelle le pétrichor."},
+    {"perso": "pepite", "texte": "Le pétri-quoi ? Tu viens d'inventer ce mot !"},
+    {"perso": "gaston", "texte": "Non. Deux chercheurs australiens l'ont baptisé en 1964."},
+    {"perso": "pepite", "texte": "Et d'où elle vient, cette odeur de terre mouillée ?"},
+    {"perso": "gaston", "texte": "De la géosmine, fabriquée par des bactéries du sol. Notre nez la repère même en quantité minuscule."},
+    {"perso": "pepite", "texte": "Donc moi, quand il pleut, je sens les bactéries. Super romantique."},
+    {"perso": "gaston", "texte": "Et toi, tu aimes l'odeur de la pluie ? Dis-le en commentaire !"}
+  ]
+}
