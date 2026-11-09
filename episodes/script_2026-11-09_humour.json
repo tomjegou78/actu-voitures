@@ -1,0 +1,18 @@
+{
+  "date": "9 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le GPS qui tourne en rond",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, au secours ! Mon GPS me fait tourner en rond depuis une heure !"},
+    {"perso": "gaston", "texte": "Une heure ? On est où, là ?"},
+    {"perso": "pepite", "texte": "Aucune idée ! Sept fois le même rond-point. J'ai la tête qui tourne, moi !"},
+    {"perso": "gaston", "texte": "Tu as tapé quelle adresse ?"},
+    {"perso": "pepite", "texte": "Juste « maison ». Il doit bien savoir où j'habite, non ?"},
+    {"perso": "gaston", "texte": "Il cherche. Il y a beaucoup de maisons en France."},
+    {"perso": "pepite", "texte": "Attends, il parle ! « Vous êtes arrivée. » Mais on est devant ton garage !"},
+    {"perso": "gaston", "texte": "Bienvenue à la maison. Et vous, votre GPS vous a déjà perdus ? Dites-le en commentaire !"}
+  ]
+}
