@@ -1,0 +1,19 @@
+{
+ "date": "9 novembre",
+ "titre": "La file d'à côté va toujours plus vite",
+ "sujet": "Pourquoi la file d'à côté semble plus rapide",
+ "bandeau": "Psycho en 30 s",
+ "numero": 2,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi la file d'à côté avance toujours plus vite que la mienne ?", "visuel": "route", "effet": "Grrr !", "mot_cle": "file"},
+  {"perso": "gaston", "texte": "Bonne nouvelle : c'est souvent une illusion.", "visuel": "alerte", "effet": "Bam !", "mot_cle": "illusion"},
+  {"perso": "gaston", "texte": "Quand ta file roule, tu doubles les autres en un éclair, et tu oublies.", "visuel": "cerveau", "mot_cle": "oublies"},
+  {"perso": "gaston", "texte": "Quand elle bouchonne, tu te fais doubler longtemps, voiture après voiture.", "visuel": "chrono", "mot_cle": "longtemps"},
+  {"perso": "gaston", "texte": "Ton cerveau retient surtout ces moments-là. Alors il croit que tu perds.", "visuel": "cerveau", "mot_cle": "perds"},
+  {"perso": "gaston", "texte": "Le conseil : reste dans ta file. Zigzaguer fait gagner très peu, et augmente les risques.", "visuel": "ampoule", "effet": "Clic !", "mot_cle": "reste"},
+  {"perso": "pepite", "texte": "Et toi, tu changes de file dans les bouchons ?", "visuel": "duo", "mot_cle": "changes"}
+ ]
+}
