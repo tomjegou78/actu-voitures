@@ -1,0 +1,19 @@
+{
+ "date": "10 novembre",
+ "titre": "Tous meilleurs que la moyenne",
+ "sujet": "Pourquoi on se croit meilleur conducteur",
+ "bandeau": "Psycho en 30 s",
+ "numero": 3,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Toi aussi, tu conduis mieux que tout le monde ?", "visuel": "pepite", "mot_cle": "mieux"},
+  {"perso": "gaston", "texte": "En 1981, un chercheur a posé la question à des conducteurs américains.", "visuel": "chrono", "mot_cle": "chercheur"},
+  {"perso": "gaston", "texte": "93 pour cent se trouvaient meilleurs que la moitié des autres.", "visuel": "alerte", "effet": "Bam !", "mot_cle": "meilleurs"},
+  {"perso": "gaston", "texte": "Impossible ! C'est l'effet de supériorité. Ton cerveau se juge avec indulgence.", "visuel": "cerveau", "effet": "Clic !", "mot_cle": "supériorité"},
+  {"perso": "gaston", "texte": "Il retient tes beaux créneaux et oublie tes petites erreurs.", "visuel": "route", "mot_cle": "erreurs"},
+  {"perso": "gaston", "texte": "L'astuce : demande à un proche de noter ta conduite, franchement.", "visuel": "ampoule", "effet": "Ding !", "mot_cle": "proche"},
+  {"perso": "pepite", "texte": "Et toi, tu te mets combien sur dix ?", "visuel": "duo", "mot_cle": "dix"}
+ ]
+}
