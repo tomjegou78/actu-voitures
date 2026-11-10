@@ -1,0 +1,38 @@
+{
+  "date": "10 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le tout premier excès de vitesse",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Le tout premier PV pour excès de vitesse, c'était à combien ? A : 13 km/h, B : 50 km/h ou C : 90 km/h ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! A : 13 kilomètres heure."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Treize ?! Mais je roule plus vite que ça en marche arrière !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "C'était en Angleterre, en 1896, dans un petit village. La limite était de 3 km/h, l'allure d'un piéton."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Un policier l'a rattrapé à vélo. L'amende : un shilling."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Rattrapée par un vélo ? Moi, je porterais plainte pour humiliation !"
+    },
+    {
+      "perso": "pepite",
+      "texte": "Tu avais trouvé ? Dis-le en commentaire !"
+    }
+  ]
+}
