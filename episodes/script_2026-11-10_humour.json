@@ -1,0 +1,16 @@
+{
+  "date": "10 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Lavée ce matin, il pleut ce soir",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! J'ai payé quinze euros pour un lavage, et il pleut !"},
+    {"perso": "gaston", "texte": "Normal. Tu as lavé ta voiture."},
+    {"perso": "pepite", "texte": "Quoi ? C'est moi qui fais pleuvoir ?"},
+    {"perso": "gaston", "texte": "Bien sûr. Les nuages surveillent les stations de lavage."},
+    {"perso": "pepite", "texte": "Alors c'est décidé : demain, je me relave. Les agriculteurs vont m'adorer !"},
+    {"perso": "gaston", "texte": "Et toi, ça t'est déjà arrivé ? Raconte en commentaire !"}
+  ]
+}
