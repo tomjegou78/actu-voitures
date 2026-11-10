@@ -1,0 +1,15 @@
+{
+  "date": "10 novembre",
+  "titre": "Pépite et Gaston",
+  "sujet": "Réviser malin : la répétition espacée",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! En un jour, on peut oublier plus de la moitié d'une leçon !"},
+    {"perso": "gaston", "texte": "C'est la courbe de l'oubli. Relire ne suffit pas, il faut se tester."},
+    {"perso": "pepite", "texte": "Alors je fais quoi ? Je révise toute la nuit ?"},
+    {"perso": "gaston", "texte": "Non. Teste-toi sans regarder, demain, puis dans trois jours, puis dans une semaine."},
+    {"perso": "pepite", "texte": "Petit et souvent, j'adore ! Et toi, tu révises comment ? Dis-le en commentaire !"}
+  ]
+}
