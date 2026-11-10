@@ -1,0 +1,18 @@
+{
+  "date": "10 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Budget de la Sécu : le Sénat prend le relais",
+  "bandeau": "L'actu politique",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Le budget de la Sécu s'est fait recaler par les députés ?"},
+    {"perso": "gaston", "texte": "Oui. Le 23 octobre, sa partie recettes a été rejetée : 115 voix contre, une seule pour."},
+    {"perso": "pepite", "texte": "Ouille ! Mais c'est quoi, au juste, ce budget ?"},
+    {"perso": "gaston", "texte": "La santé, les retraites, la famille. Le gouvernement veut ramener le déficit de 21,8 à 12,7 milliards d'euros en 2027."},
+    {"perso": "pepite", "texte": "Et maintenant, on l'envoie à la fourrière ?"},
+    {"perso": "gaston", "texte": "Non. Depuis lundi, le Sénat l'examine dans la version du gouvernement. Vote prévu le 18 novembre."},
+    {"perso": "gaston", "texte": "La gauche le juge injuste. La droite et le RN le trouvent mal ficelé. Le camp présidentiel défend le texte de départ."},
+    {"perso": "pepite", "texte": "Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
