@@ -1,0 +1,38 @@
+{
+  "date": "11 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Droite et centre : primaire ou pas ?",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Quiz ! Une primaire, c'est A, un vote pour choisir un candidat, B, le premier tour, ou C, une élection à l'école ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! C'est la A. Les électeurs départagent plusieurs candidats d'un même camp."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et pourquoi on en parle autant cette semaine ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "La droite et le centre cherchent un seul candidat pour 2027. Gabriel Attal, Bruno Retailleau et David Lisnard sont favorables à une primaire."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et tout le monde est d'accord ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non. Édouard Philippe refuse d'y participer. Laurent Wauquiez veut un candidat unique avant Noël."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Moi, ma primaire, c'est choisir entre le 95 et le 98 ! Tu avais trouvé ? Et toi, t'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
