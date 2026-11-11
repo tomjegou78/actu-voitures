@@ -1,0 +1,30 @@
+{
+  "date": "11 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "La pieuvre a trois cœurs",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "coucher",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Une pieuvre a trois cœurs ? Impossible !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "C'est vrai ! Deux petits cœurs pour les branchies, et un grand cœur pour tout le corps."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et son sang, il est rouge comme ma carrosserie ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non, il est bleu ! Il transporte l'oxygène grâce au cuivre, pas au fer."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Trois cœurs et du sang bleu, une vraie princesse ! Et toi, tu savais ? Dis-le en commentaire !"
+    }
+  ]
+}
