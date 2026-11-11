@@ -1,0 +1,57 @@
+{
+ "date": "11 novembre",
+ "titre": "Pourquoi on oublie où on s'est garé",
+ "sujet": "Pourquoi on oublie où on s'est garé",
+ "bandeau": "Psycho en 30 s",
+ "numero": 4,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {
+   "perso": "pepite",
+   "texte": "Pourquoi je ne retrouve jamais où je me suis garée ?",
+   "visuel": "pepite",
+   "effet": "Euh !",
+   "mot_cle": "garée"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Parce qu'en te garant, ton cerveau pensait déjà aux courses.",
+   "visuel": "route",
+   "mot_cle": "courses"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Sans attention, le souvenir n'est jamais vraiment enregistré.",
+   "visuel": "cerveau",
+   "effet": "Pouf !",
+   "mot_cle": "attention"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Et si tu te gares souvent au même endroit, les anciennes places se mélangent avec la nouvelle.",
+   "visuel": "alerte",
+   "mot_cle": "mélangent"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Les chercheurs appellent ça l'interférence : les vieux souvenirs brouillent le récent.",
+   "visuel": "chrono",
+   "mot_cle": "interférence"
+  },
+  {
+   "perso": "gaston",
+   "texte": "L'astuce : en sortant, dis à voix haute un repère, comme allée bleue, près du pilier.",
+   "visuel": "ampoule",
+   "effet": "Clic !",
+   "mot_cle": "repère"
+  },
+  {
+   "perso": "pepite",
+   "texte": "Allée bleue, je retiens ! Et toi, tu as déjà cherché ta voiture ?",
+   "visuel": "duo",
+   "mot_cle": "cherché"
+  }
+ ]
+}
