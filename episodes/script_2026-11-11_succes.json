@@ -1,0 +1,42 @@
+{
+  "date": "11 novembre",
+  "titre": "Pépite et Gaston",
+  "sujet": "Rester concentrée : la méthode Pomodoro",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Trois heures devant mon devoir, et zéro ligne écrite !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Normal. Trois heures d'affilée, personne ne tient. Coupe en petits morceaux."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Des morceaux ? Comme une tartine ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Presque. Minuteur sur vingt-cinq minutes, une seule tâche, téléphone dans une autre pièce."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et quand ça sonne, je fonce au bonhomme de neige ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Cinq minutes de pause, oui. Après quatre tours, une vraie pause plus longue."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Commence aujourd'hui, juste un tour. Le plus dur, c'est de lancer le minuteur."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et toi, tu tiens combien de minutes sans ton téléphone ? Dis-le en commentaire !"
+    }
+  ]
+}
