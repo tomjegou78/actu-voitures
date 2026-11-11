@@ -1,0 +1,18 @@
+{
+  "date": "11 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Coincés derrière un tracteur",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Ça fait vingt minutes qu'on roule à douze à l'heure !"},
+    {"perso": "gaston", "texte": "Normal. Il y a un tracteur devant."},
+    {"perso": "pepite", "texte": "Je klaxonne ? Je fais des appels de phares ? Je chante très fort ?"},
+    {"perso": "gaston", "texte": "Tu patientes. On le doublera plus loin."},
+    {"perso": "pepite", "texte": "Ah ! Il met son clignotant ! Enfin libres !"},
+    {"perso": "gaston", "texte": "Hum. Il tourne dans notre rue."},
+    {"perso": "pepite", "texte": "Il se gare devant NOTRE garage ! Gaston, t'as invité un tracteur à dîner ?!"},
+    {"perso": "gaston", "texte": "C'est mon cousin Marcel. Et toi, t'es resté coincé derrière quoi ? Dis-le en commentaire !"}
+  ]
+}
