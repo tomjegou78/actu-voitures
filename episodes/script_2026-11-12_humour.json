@@ -1,0 +1,16 @@
+{
+  "date": "12 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le créneau en vingt-sept manœuvres",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Une place libre en plein centre-ville ! C'est un miracle !"},
+    {"perso": "gaston", "texte": "Elle est petite. Créneau, tout doucement."},
+    {"perso": "pepite", "texte": "Je recule, je braque, je rebraque, je re-recule. Vingt-sept manœuvres plus tard : garée !"},
+    {"perso": "gaston", "texte": "Bravo. Les deux voitures autour viennent de partir."},
+    {"perso": "pepite", "texte": "Toute la rue est vide ?! Pas grave, je ne bouge plus. Je dors ici ce soir !"},
+    {"perso": "gaston", "texte": "Et toi, ton record de manœuvres pour un créneau ? Dis-le en commentaire !"}
+  ]
+}
