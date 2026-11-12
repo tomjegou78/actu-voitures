@@ -1,0 +1,19 @@
+{
+ "date": "12 novembre",
+ "titre": "Pourquoi on baisse la musique pour mieux voir",
+ "sujet": "Pourquoi on baisse la musique pour chercher",
+ "bandeau": "Psycho en 30 s",
+ "numero": 5,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi je baisse la musique quand je cherche une adresse ?", "visuel": "route", "effet": "Hein ?", "mot_cle": "musique"},
+  {"perso": "gaston", "texte": "Parce que ton attention, c'est comme un réservoir limité.", "visuel": "cerveau", "mot_cle": "attention"},
+  {"perso": "gaston", "texte": "Tes yeux et tes oreilles puisent dans le même réservoir.", "visuel": "alerte", "mot_cle": "réservoir"},
+  {"perso": "gaston", "texte": "Quand il faut bien regarder, ton cerveau coupe le son pour mieux voir.", "visuel": "cerveau", "effet": "Chut !", "mot_cle": "voir"},
+  {"perso": "gaston", "texte": "L'astuce : dans un quartier inconnu, coupe la radio avant de chercher.", "visuel": "ampoule", "effet": "Clic !", "mot_cle": "radio"},
+  {"perso": "gaston", "texte": "Tes yeux auront toute la place pour repérer le bon numéro.", "visuel": "chrono", "mot_cle": "yeux"},
+  {"perso": "pepite", "texte": "Et toi, tu baisses le son pour te garer ?", "visuel": "duo", "mot_cle": "garer"}
+ ]
+}
