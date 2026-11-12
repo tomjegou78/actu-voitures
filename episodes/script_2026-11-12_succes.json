@@ -1,0 +1,17 @@
+{
+  "date": "12 novembre",
+  "titre": "Le mindset de Pépite et Gaston",
+  "sujet": "Le plan si-alors pour passer à l'action",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Quiz ! Pour enfin tenir une résolution, quoi de mieux ? A : y penser très fort. B : un plan si-alors. C : attendre la motivation ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! C'est la B : le plan si-alors."},
+    {"perso": "pepite", "texte": "Un plan si-alors ? C'est quoi ce truc ?"},
+    {"perso": "gaston", "texte": "Tu décides à l'avance. Si je rentre à la maison, alors je mets mes baskets. Plus besoin d'hésiter, les études le confirment."},
+    {"perso": "pepite", "texte": "Génial ! Alors s'il pleut, je reste sous ma couette !"},
+    {"perso": "gaston", "texte": "Bien essayé. S'il pleut, alors dix minutes de gym au salon. Écris ton plan dès aujourd'hui."},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
