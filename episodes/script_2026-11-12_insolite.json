@@ -1,0 +1,18 @@
+{
+  "date": "12 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "La neige n'est pas blanche",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "gaston", "texte": "Pépite, tu sais que la neige n'est pas blanche ?"},
+    {"perso": "pepite", "texte": "Quoi ?! Gaston, regarde autour de toi, tout est blanc !"},
+    {"perso": "gaston", "texte": "Un flocon, c'est de la glace. Et la glace est transparente."},
+    {"perso": "pepite", "texte": "Transparente ? Alors pourquoi mon capot ressemble à une meringue ?"},
+    {"perso": "gaston", "texte": "Parce que la neige, ce sont des millions de petits cristaux. La lumière rebondit sur toutes leurs facettes."},
+    {"perso": "gaston", "texte": "Toutes les couleurs repartent mélangées vers tes phares. Et ce mélange, ton œil le voit blanc."},
+    {"perso": "pepite", "texte": "Donc je ne suis pas couverte de neige. Je suis couverte de glace invisible ! Je suis une voiture fantôme !"},
+    {"perso": "pepite", "texte": "Et toi, tu le savais que la neige était transparente ? Dis-le en commentaire !"}
+  ]
+}
