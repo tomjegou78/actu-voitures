@@ -1,0 +1,15 @@
+{
+  "date": "12 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "5 000 places de plus en licence",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "5 000 places de plus à la fac ! Gaston, c'est quoi cette annonce ?"},
+    {"perso": "gaston", "texte": "Le Premier ministre l'a écrit aux présidents d'université. Des moyens sont promis, sans montant pour l'instant."},
+    {"perso": "pepite", "texte": "Et les étudiants, ils en disent quoi ?"},
+    {"perso": "gaston", "texte": "Mobilisés depuis septembre, ils réclament 250 000 places et une réforme de Parcoursup."},
+    {"perso": "pepite", "texte": "Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
