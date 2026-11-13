@@ -1,0 +1,18 @@
+{
+  "date": "13 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "725 millions pour relancer l'agriculture",
+  "bandeau": "L'actu politique",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "725 millions d'euros pour nos campagnes ! Gaston, c'est pour qui ?"},
+    {"perso": "gaston", "texte": "Pour les agriculteurs. Le gouvernement a présenté jeudi son plan de relance agricole."},
+    {"perso": "pepite", "texte": "Et concrètement, ça sert à quoi ?"},
+    {"perso": "gaston", "texte": "S'équiper contre les fortes chaleurs, financer des projets d'avenir, et aider les jeunes à reprendre une ferme."},
+    {"perso": "pepite", "texte": "Génial ! Je peux avoir un filet antigrêle pour mon toit ?"},
+    {"perso": "gaston", "texte": "Tu n'es pas une ferme, Pépite. Et environ la moitié de l'argent dépend du vote du budget 2027."},
+    {"perso": "pepite", "texte": "Et les agriculteurs, ils applaudissent ?"},
+    {"perso": "gaston", "texte": "Les avis sont partagés. Les Jeunes Agriculteurs saluent du concret, la Confédération paysanne réclame une politique de fond. Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
