@@ -1,0 +1,19 @@
+{
+ "date": "13 novembre",
+ "titre": "Pourquoi le retour paraît plus court",
+ "sujet": "Pourquoi le trajet retour paraît plus court",
+ "bandeau": "Psycho en 30 s",
+ "numero": 6,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi le retour en voiture paraît toujours plus court ?", "visuel": "pepite", "mot_cle": "retour"},
+  {"perso": "gaston", "texte": "Même route, même distance. Pourtant, le retour file plus vite.", "visuel": "route", "effet": "Zioum !", "mot_cle": "vite"},
+  {"perso": "gaston", "texte": "Des chercheurs de Tilburg l'ont mesuré : il semble environ vingt-deux pour cent plus court.", "visuel": "chrono", "mot_cle": "Tilburg"},
+  {"perso": "gaston", "texte": "Le secret : à l'aller, le trajet te paraît plus long que prévu.", "visuel": "alerte", "mot_cle": "prévu"},
+  {"perso": "gaston", "texte": "Alors ton cerveau s'attend à un retour interminable. Et il est agréablement surpris.", "visuel": "cerveau", "effet": "Clic !", "mot_cle": "surpris"},
+  {"perso": "gaston", "texte": "L'astuce : prévois toujours un peu plus de temps. Le trajet te semblera moins long.", "visuel": "ampoule", "mot_cle": "temps"},
+  {"perso": "pepite", "texte": "Malin ! Et toi, ton retour de vacances, il passe plus vite ?", "visuel": "duo", "mot_cle": "vacances"}
+ ]
+}
