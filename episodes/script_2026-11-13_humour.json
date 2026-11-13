@@ -1,0 +1,18 @@
+{
+  "date": "13 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le contrôle technique de Pépite",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Le contrôleur technique a regardé mes pneus et il a soupiré !"},
+    {"perso": "gaston", "texte": "C'est normal. Il soupire pour tout le monde."},
+    {"perso": "pepite", "texte": "Après, il a testé mes clignotants. Moi, j'ai fait un clin d'œil, pour être aimable."},
+    {"perso": "gaston", "texte": "Il a noté quoi ?"},
+    {"perso": "pepite", "texte": "Défaut d'éclairage ! Ensuite, il m'a demandé de klaxonner."},
+    {"perso": "gaston", "texte": "Et tu as fait quoi ?"},
+    {"perso": "pepite", "texte": "Je lui ai klaxonné joyeux anniversaire ! C'était écrit sur sa tasse."},
+    {"perso": "gaston", "texte": "Résultat : contre-visite. Mais il t'a invitée à sa fête. Et vous, votre pire contrôle technique ? En commentaire !"}
+  ]
+}
