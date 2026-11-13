@@ -1,0 +1,15 @@
+{
+  "date": "13 novembre",
+  "titre": "Le mindset des voitures",
+  "sujet": "Le sommeil, arme secrète de la réussite",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Sept à neuf heures de sommeil par nuit ? Moi, j'en fais cinq pour bosser plus !"},
+    {"perso": "gaston", "texte": "Mauvais calcul. C'est en dormant que ton cerveau range ce que tu as appris."},
+    {"perso": "pepite", "texte": "Donc dormir, c'est travailler ? Je signe tout de suite !"},
+    {"perso": "gaston", "texte": "Ce soir : même heure de coucher, et écrans coupés trente minutes avant."},
+    {"perso": "pepite", "texte": "Et toi, tu dors combien d'heures ? Dis-le en commentaire !"}
+  ]
+}
