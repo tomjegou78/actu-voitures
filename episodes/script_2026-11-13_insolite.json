@@ -1,0 +1,17 @@
+{
+  "date": "13 novembre",
+  "titre": "Le saviez-vous ? avec Pépite et Gaston",
+  "sujet": "La tour Eiffel grandit en été",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, quiz ! L'été, la tour Eiffel grandit de combien ? A : un millimètre, B : une quinzaine de centimètres, C : deux mètres ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! Réponse B : une quinzaine de centimètres !"},
+    {"perso": "pepite", "texte": "Quoi ?! Une tour en fer qui pousse comme une plante ? J'y crois pas !"},
+    {"perso": "gaston", "texte": "C'est la dilatation. Le fer chauffe au soleil, il s'allonge un peu. Sur trois cents mètres, ça se voit."},
+    {"perso": "pepite", "texte": "Donc moi aussi, je grandis l'été ? Enfin plus grande que toi !"},
+    {"perso": "gaston", "texte": "Non, toi tu gonfles juste tes pneus."},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
