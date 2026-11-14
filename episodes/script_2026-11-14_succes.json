@@ -1,0 +1,18 @@
+{
+  "date": "14 novembre",
+  "titre": "Le mindset des voitures",
+  "sujet": "Découper un grand rêve en petites étapes",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, j'ai un rêve énorme : faire le tour de France ! Mais je ne sais même pas par où commencer."},
+    {"perso": "gaston", "texte": "Normal, un grand rêve, ça impressionne. Alors on le découpe en petites étapes."},
+    {"perso": "pepite", "texte": "Genre, une région par mois ?"},
+    {"perso": "gaston", "texte": "Exactement. Puis chaque mois en semaines. Et chaque semaine, une action simple."},
+    {"perso": "pepite", "texte": "D'accord, mais aujourd'hui, concrètement, je fais quoi ?"},
+    {"perso": "gaston", "texte": "Une seule chose de dix minutes. Par exemple, tracer ta première étape sur la carte."},
+    {"perso": "pepite", "texte": "Dix minutes ? Je l'ai fini avant que mon moteur refroidisse !"},
+    {"perso": "gaston", "texte": "Et toi, c'est quoi ton grand rêve ? Écris ta première petite étape en commentaire !"}
+  ]
+}
