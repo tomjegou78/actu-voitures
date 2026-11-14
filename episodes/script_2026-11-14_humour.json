@@ -1,0 +1,34 @@
+{
+  "date": "14 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Le réservoir du mauvais côté",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Panique ! Mon réservoir a changé de côté pendant la nuit !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non. Tu t'es garée à l'envers devant la pompe. Encore."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Bon, je fais le tour. Hop, hop, hop ! Ah non, il est encore de l'autre côté ! C'est un complot !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Regarde ta jauge. La petite flèche montre le bon côté."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Une flèche ?! Depuis six ans, je croyais qu'elle m'indiquait la boulangerie !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Et vous, vous vous trompez de côté à la pompe ? Avouez en commentaire."
+    }
+  ]
+}
