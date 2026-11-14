@@ -1,0 +1,38 @@
+{
+  "date": "14 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Fonctionnaires : points d'indice et grève",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "pluie",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Quiz ! Hausser de 1 % le point d'indice des fonctionnaires, ça coûte combien ? A, 240 millions, B, 2,4 milliards, ou C, 24 milliards ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! B : 2,4 milliards d'euros, selon le gouvernement."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Donc pas de hausse pour tout le monde ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Oui. Vendredi, il a proposé autre chose : des points en plus pour les moins bien payés, et le Smic relevé de 1,6 % au 1er décembre."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et les syndicats ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Ils jugent ça insuffisant et appellent à la grève mardi. Le gouvernement, lui, invoque un budget très serré."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mon point d'indice à moi, c'est ma jauge d'huile ! Tu avais trouvé ? Et toi, t'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
