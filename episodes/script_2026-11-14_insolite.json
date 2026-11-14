@@ -1,0 +1,15 @@
+{
+  "date": "14 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Les requins sont plus vieux que les arbres",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "gaston", "texte": "Les requins existaient 60 millions d'années avant le premier arbre !"},
+    {"perso": "pepite", "texte": "Quoi ?! Impossible, les arbres, c'est vieux comme le monde !"},
+    {"perso": "gaston", "texte": "Les requins ont environ 450 millions d'années. Les premiers arbres, à peine 390."},
+    {"perso": "pepite", "texte": "Donc les requins n'ont jamais connu l'ombre d'un sapin. Pauvres bêtes !"},
+    {"perso": "pepite", "texte": "Toi, tu aurais parié sur qui ? Dis-le en commentaire !"}
+  ]
+}
