@@ -1,0 +1,19 @@
+{
+ "date": "14 novembre",
+ "titre": "Pourquoi on finit par aimer le tube de la radio",
+ "sujet": "Pourquoi on finit par aimer le tube radio",
+ "bandeau": "Psycho en 30 s",
+ "numero": 7,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi je chante à tue-tête une chanson que je détestais il y a un mois ?", "visuel": "pepite", "mot_cle": "détestais"},
+  {"perso": "gaston", "texte": "Parce que la radio te l'a passée à chaque trajet.", "visuel": "route", "effet": "Bam !", "mot_cle": "trajet"},
+  {"perso": "gaston", "texte": "En 1968, le psychologue Robert Zajonc l'a montré : plus on est exposé à quelque chose, plus on a tendance à l'aimer.", "visuel": "chrono", "mot_cle": "exposé"},
+  {"perso": "gaston", "texte": "Ce qui est familier, ton cerveau le traite plus facilement. Et cette facilité, il la prend pour du plaisir.", "visuel": "cerveau", "effet": "Clic !", "mot_cle": "familier"},
+  {"perso": "gaston", "texte": "L'astuce : avant de juger un nouvel album, écoute-le plusieurs fois.", "visuel": "ampoule", "mot_cle": "plusieurs"},
+  {"perso": "gaston", "texte": "Et méfie-toi : ce qu'on voit partout n'est pas forcément meilleur. C'est juste familier.", "visuel": "alerte", "mot_cle": "partout"},
+  {"perso": "pepite", "texte": "Et toi, quelle chanson tu as fini par adorer en voiture ?", "visuel": "duo", "mot_cle": "adorer"}
+ ]
+}
