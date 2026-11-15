@@ -1,0 +1,42 @@
+{
+  "date": "15 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Le ticket de péage hors de portée",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Au secours ! La borne du péage est à deux kilomètres de ma fenêtre !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Tu es juste garée trop loin. Recule et rapproche-toi."
+    },
+    {
+      "perso": "pepite",
+      "texte": "J'ai reculé, avancé, reculé ! Maintenant je suis collée, je ne peux plus ouvrir la portière !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Alors baisse la vitre et tends le bras."
+    },
+    {
+      "perso": "pepite",
+      "texte": "C'est fait ! Je l'ai ! Oh non, le ticket s'est envolé sous la pluie !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pas de panique. Il y a un bouton pour appeler quelqu'un."
+    },
+    {
+      "perso": "pepite",
+      "texte": "J'ai appuyé ! Le monsieur dit que la barrière est levée depuis le début. Ce péage est gratuit le dimanche !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Et vous, déjà raté le ticket au péage ? Racontez en commentaire."
+    }
+  ]
+}
