@@ -1,0 +1,18 @@
+{
+  "date": "15 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Un nuage pèse 500 tonnes",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "gaston", "texte": "Pépite, ce petit nuage là-haut pèse environ 500 tonnes."},
+    {"perso": "pepite", "texte": "Quoi ?! Un nuage, c'est léger comme de la barbe à papa !"},
+    {"perso": "gaston", "texte": "Non. Un nuage, c'est de l'eau. Des milliards de gouttelettes minuscules."},
+    {"perso": "pepite", "texte": "Et ça fait vraiment 500 tonnes ? Le poids d'une centaine d'éléphants ?"},
+    {"perso": "gaston", "texte": "Oui, pour un cumulus moyen. Les météorologues l'ont calculé."},
+    {"perso": "pepite", "texte": "Mais alors pourquoi il ne nous tombe pas sur le toit ?"},
+    {"perso": "gaston", "texte": "Les gouttes sont si petites et si dispersées que l'air chaud qui monte les porte."},
+    {"perso": "pepite", "texte": "Cent éléphants au-dessus de mon capot ! Je me gare à l'ombre d'un arbre, moi ! Et toi, tu savais ? Dis-le en commentaire !"}
+  ]
+}
