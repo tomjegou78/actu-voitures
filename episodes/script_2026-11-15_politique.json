@@ -1,0 +1,15 @@
+{
+  "date": "15 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Universités bloquées : pas de 10 automatique",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Un 10 sur 20 pour tout le monde, sans examen ? C'est non !"},
+    {"perso": "gaston", "texte": "Avec les blocages, des étudiants ont raté des cours. Certains réclament un semestre validé d'office."},
+    {"perso": "pepite", "texte": "Et le ministre de l'Enseignement supérieur, Philippe Baptiste, il répond quoi ?"},
+    {"perso": "gaston", "texte": "Il refuse : un diplôme suppose un examen. Mais les partiels peuvent être reportés ou déplacés."},
+    {"perso": "pepite", "texte": "Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
