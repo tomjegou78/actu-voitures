@@ -1,0 +1,17 @@
+{
+  "date": "15 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Transformer un échec en leçon",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "J'ai raté mon examen ! Le bon réflexe : A, tout lâcher, B, retenter pareil, ou C, analyser ce qui a coincé ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! C'est la C. Un échec, c'est une info, pas un verdict."},
+    {"perso": "pepite", "texte": "Une info ? Moi, j'y vois surtout un gros zéro."},
+    {"perso": "gaston", "texte": "Ce soir, note trois choses : ce qui a marché, ce qui a coincé, et ce que tu changes la prochaine fois."},
+    {"perso": "pepite", "texte": "Ce qui a coincé ? J'ai révisé en roulant au point mort !"},
+    {"perso": "gaston", "texte": "Alors la prochaine fois, passe la première. Avec un plan, tu repars plus fort."},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
