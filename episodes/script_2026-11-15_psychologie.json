@@ -1,0 +1,19 @@
+{
+ "date": "15 novembre",
+ "titre": "L'effet projecteur",
+ "sujet": "Pourquoi on croit que tout le monde nous voit",
+ "bandeau": "Psycho en 30 s",
+ "numero": 8,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "J'ai calé au feu vert. Toute la rue m'a vue, j'en suis sûre !", "visuel": "alerte", "effet": "Bam !", "mot_cle": "calé"},
+  {"perso": "gaston", "texte": "Ton cerveau croit être sous un projecteur. C'est l'effet projecteur.", "visuel": "cerveau", "mot_cle": "projecteur"},
+  {"perso": "gaston", "texte": "Tu vis la scène de l'intérieur, alors tu penses que les autres la voient aussi fort que toi.", "visuel": "pepite", "mot_cle": "intérieur"},
+  {"perso": "gaston", "texte": "À Cornell, des étudiants portaient un tee-shirt gênant. Ils pensaient que la moitié de la salle l'avait remarqué.", "visuel": "chrono", "mot_cle": "moitié"},
+  {"perso": "gaston", "texte": "En vrai, deux fois moins de gens l'avaient vu.", "visuel": "route", "effet": "Zioum !", "mot_cle": "deux"},
+  {"perso": "gaston", "texte": "L'astuce : les autres pensent surtout à eux. Souris, redémarre, et passe à autre chose.", "visuel": "ampoule", "effet": "Clic !", "mot_cle": "redémarre"},
+  {"perso": "pepite", "texte": "Ouf ! Et toi, c'est quoi ta pire honte au volant ?", "visuel": "duo", "mot_cle": "honte"}
+ ]
+}
