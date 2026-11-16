@@ -1,0 +1,19 @@
+{
+ "date": "16 novembre",
+ "titre": "Le bâillement contagieux",
+ "sujet": "Pourquoi on bâille quand l'autre bâille",
+ "bandeau": "Psycho en 30 s",
+ "numero": 9,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi je bâille dès que Gaston bâille ?", "visuel": "pepite", "mot_cle": "bâille", "effet": "Aaah !"},
+  {"perso": "gaston", "texte": "Parce que le bâillement est contagieux, comme un fou rire.", "visuel": "duo", "mot_cle": "contagieux"},
+  {"perso": "gaston", "texte": "Ton cerveau voit un bâillement et lance le même programme, sans te demander ton avis.", "visuel": "cerveau", "mot_cle": "programme", "effet": "Clic !"},
+  {"perso": "gaston", "texte": "Dans une étude, plus de la moitié des gens ont bâillé en regardant des vidéos de bâillements.", "visuel": "chrono", "mot_cle": "moitié"},
+  {"perso": "gaston", "texte": "Même lire ou penser au mot bâiller suffit parfois. Tu sens que ça vient ?", "visuel": "alerte", "mot_cle": "lire"},
+  {"perso": "gaston", "texte": "Au volant, si tu bâilles sans arrêt, c'est un signal de fatigue. Arrête-toi et fais une pause.", "visuel": "ampoule", "mot_cle": "pause", "effet": "Stop !"},
+  {"perso": "pepite", "texte": "Et toi, tu as bâillé en regardant cette vidéo ?", "visuel": "route", "mot_cle": "bâillé"}
+ ]
+}
