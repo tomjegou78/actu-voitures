@@ -1,0 +1,16 @@
+{
+  "date": "16 novembre",
+  "titre": "Le sketch de Pépite et Gaston",
+  "sujet": "Pépite fait la grève du lundi",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Je refuse de démarrer. On est lundi matin !"},
+    {"perso": "gaston", "texte": "Ta batterie est neuve, Pépite. Allez, contact."},
+    {"perso": "pepite", "texte": "Non ! Mes phares restent fermés, mon klaxon boude. Réveille-moi quand on sera mardi."},
+    {"perso": "gaston", "texte": "Pépite. On est mardi. Tu as dormi tout le lundi."},
+    {"perso": "pepite", "texte": "Quoi ?! J'ai sauté le lundi ? C'est le plus beau lundi de toute ma vie !"},
+    {"perso": "gaston", "texte": "Et toi, tu dormirais tout le lundi ? Dis-le en commentaire."}
+  ]
+}
