@@ -1,0 +1,15 @@
+{
+  "date": "16 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Préparer sa journée la veille en 5 minutes",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Une journée, c'est 1440 minutes. Et moi, j'en perds plein à me demander quoi faire !"},
+    {"perso": "gaston", "texte": "Alors prends-en cinq ce soir. Pas une de plus."},
+    {"perso": "pepite", "texte": "Cinq minutes ? Pour faire quoi ?"},
+    {"perso": "gaston", "texte": "Note les trois tâches de demain. La plus importante en premier. Et tu commences par elle."},
+    {"perso": "pepite", "texte": "Demain matin, je démarre au quart de tour ! Et toi, c'est quoi ta tâche numéro un ? Dis-le en commentaire !"}
+  ]
+}
