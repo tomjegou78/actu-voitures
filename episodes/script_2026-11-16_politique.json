@@ -1,0 +1,38 @@
+{
+  "date": "16 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "Budget : la piste des ordonnances",
+  "bandeau": "L'actu politique",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Le budget de la France pourrait passer sans le vote des députés ?!"
+    },
+    {
+      "perso": "gaston",
+      "texte": "En théorie, oui. Le 4 novembre, les députés ont rejeté la partie recettes : 458 voix contre, aucune pour. Le texte est au Sénat."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et s'il n'y a toujours pas d'accord ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "La Constitution donne 70 jours au Parlement. Fin du délai : le 17 décembre à minuit. Après, le gouvernement peut appliquer son budget par ordonnance. Ça n'a jamais été fait depuis 1958."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Minuit ? Comme Cendrillon, mais avec des milliards ! Et ça fait débat ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Oui. Le gouvernement mise sur un compromis après le Sénat. Le Parti socialiste dit qu'il voterait la censure en cas d'ordonnances."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Compromis, ordonnances ou censure : et toi, t'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
