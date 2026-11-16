@@ -1,0 +1,17 @@
+{
+  "date": "16 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Un éclair plus chaud que le Soleil",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Quiz ! Un éclair, c'est combien de fois plus chaud que la surface du Soleil ? A : deux fois, B : cinq fois, ou C : c'est impossible ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B : cinq fois plus chaud."},
+    {"perso": "pepite", "texte": "Quoi ?! Un petit éclair plus chaud que le Soleil ? J'y crois pas !"},
+    {"perso": "gaston", "texte": "Si. Un éclair chauffe l'air à près de 30 000 degrés. La surface du Soleil, c'est environ 5 500."},
+    {"perso": "pepite", "texte": "Et le tonnerre, alors, c'est quoi ?"},
+    {"perso": "gaston", "texte": "L'air chauffe si vite qu'il se dilate d'un coup. Ça fait boum !"},
+    {"perso": "pepite", "texte": "Bon, ce soir je reste au garage avec mes essuie-glaces. Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
