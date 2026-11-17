@@ -1,0 +1,18 @@
+{
+  "date": "17 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Se comparer à soi d'hier, pas aux autres",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, tout le monde roule plus vite que moi dans la vie !"},
+    {"perso": "gaston", "texte": "Tu te compares à qui, exactement ?"},
+    {"perso": "pepite", "texte": "Aux autres ! Ils ont l'air de tout réussir, eux."},
+    {"perso": "gaston", "texte": "Tu vois leur vitrine, pas leurs pannes. Compare-toi plutôt à toi d'hier."},
+    {"perso": "pepite", "texte": "Et je fais comment, concrètement ?"},
+    {"perso": "gaston", "texte": "Ce soir, note un seul progrès de ta journée. Même minuscule. Et relis la liste chaque dimanche."},
+    {"perso": "pepite", "texte": "Aujourd'hui, j'ai fait mon créneau du premier coup ! Bon, presque."},
+    {"perso": "gaston", "texte": "Ça compte. Et toi, c'est quoi ton petit progrès du jour ? Dis-le en commentaire !"}
+  ]
+}
