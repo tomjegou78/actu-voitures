@@ -1,0 +1,19 @@
+{
+ "date": "17 novembre",
+ "titre": "Le piège de l'argent déjà dépensé",
+ "sujet": "Pourquoi on garde une voiture qui nous ruine",
+ "bandeau": "Psycho en 30 s",
+ "numero": 10,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi on garde une voiture qui nous ruine en réparations ?", "visuel": "alerte", "effet": "Bam !", "mot_cle": "ruine"},
+  {"perso": "gaston", "texte": "Parce que ton cerveau pense à tout l'argent déjà dépensé.", "visuel": "cerveau", "mot_cle": "argent"},
+  {"perso": "gaston", "texte": "Les chercheurs appellent ça l'effet des coûts irrécupérables.", "visuel": "cerveau", "effet": "Clic !", "mot_cle": "irrécupérables"},
+  {"perso": "gaston", "texte": "Dans une étude de 1985, beaucoup choisissaient le séjour au ski le plus cher, même en préférant l'autre.", "visuel": "chrono", "mot_cle": "cher"},
+  {"perso": "gaston", "texte": "Mais le passé est payé. Il ne doit plus décider à ta place.", "visuel": "route", "mot_cle": "passé"},
+  {"perso": "gaston", "texte": "L'astuce : demande-toi si tu la choisirais aujourd'hui, en partant de zéro.", "visuel": "ampoule", "effet": "Ding !", "mot_cle": "zéro"},
+  {"perso": "pepite", "texte": "Et toi, qu'est-ce que tu gardes juste parce que tu l'as déjà payé ?", "visuel": "duo", "mot_cle": "payé"}
+ ]
+}
