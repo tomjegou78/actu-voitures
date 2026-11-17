@@ -1,0 +1,17 @@
+{
+  "date": "17 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "Épargne salariale : un déblocage à 10 000 €",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Les députés veulent débloquer combien d'épargne salariale ? A, 1 000 euros, B, 5 000, ou C, 10 000 ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! C : jusqu'à 10 000 euros, votés lundi. Le Sénat, lui, avait dit 5 000."},
+    {"perso": "pepite", "texte": "Et concrètement, ça marche comment ?"},
+    {"perso": "gaston", "texte": "Participation et intéressement placés avant 2026. Un retrait sans impôt, pendant un an, une fois la loi promulguée."},
+    {"perso": "pepite", "texte": "Et tout le monde applaudit ?"},
+    {"perso": "gaston", "texte": "Non. La droite, le centre et le RN y voient un coup de pouce au pouvoir d'achat. La gauche préfère augmenter les salaires."},
+    {"perso": "pepite", "texte": "Moi, mon épargne, c'est trois pièces sous le tapis de sol. Et toi, t'en penses quoi ? Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
