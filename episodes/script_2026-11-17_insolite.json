@@ -1,0 +1,15 @@
+{
+  "date": "17 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "La Lune s'éloigne de nous chaque année",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! La Lune s'éloigne de nous de presque 4 centimètres par an !"},
+    {"perso": "gaston", "texte": "C'est vrai. 3,8 centimètres, mesurés au laser sur des miroirs posés par Apollo."},
+    {"perso": "pepite", "texte": "Mais pourquoi elle s'en va ? On l'a vexée ?"},
+    {"perso": "gaston", "texte": "Ce sont les marées. Elles freinent la Terre et poussent la Lune un peu plus loin."},
+    {"perso": "pepite", "texte": "Ouf, j'ai le temps de faire le plein avant qu'elle parte ! Tu le savais ? Dis-le en commentaire !"}
+  ]
+}
