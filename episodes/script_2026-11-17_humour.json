@@ -1,0 +1,18 @@
+{
+  "date": "17 novembre",
+  "titre": "Le sketch de Pépite et Gaston",
+  "sujet": "Le coffre des vacances qui ne ferme pas",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Au secours, mon coffre refuse de fermer !"},
+    {"perso": "gaston", "texte": "Qu'est-ce que tu as mis dedans ?"},
+    {"perso": "pepite", "texte": "Trois valises, un parasol, une bouée canard et la machine à raclette."},
+    {"perso": "gaston", "texte": "Une raclette ? Pour la plage ?"},
+    {"perso": "pepite", "texte": "S'il neige en août, tu me remercieras ! Allez, assieds-toi dessus."},
+    {"perso": "gaston", "texte": "Voilà, fermé. Où sont les clés de la maison ?"},
+    {"perso": "pepite", "texte": "Euh. Au fond du coffre. Sous la raclette."},
+    {"perso": "gaston", "texte": "Et toi, qu'est-ce que tu oublies toujours en partant ? Dis-le en commentaire."}
+  ]
+}
