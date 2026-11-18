@@ -1,0 +1,34 @@
+{
+  "date": "18 novembre",
+  "titre": "Pépite et Gaston",
+  "sujet": "Le siège passager qui bipe tout seul",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, au secours ! Mon siège passager bipe et il n'y a personne dessus !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Regarde mieux. Il y a un pack de six bouteilles d'eau."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Ah oui ! Bon, je lui attache sa ceinture et on n'en parle plus."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Voilà. Ça ne bipe plus. Bonne nuit."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Gaston ? La bouteille du milieu vient de me dire de tourner à gauche !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Écoute-la. C'est la plus maligne du pack. Et toi, ton passager le plus bizarre ? Dis-le en commentaire !"
+    }
+  ]
+}
