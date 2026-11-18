@@ -1,0 +1,18 @@
+{
+ "date": "18 novembre",
+ "titre": "L'erreur de planification",
+ "sujet": "Pourquoi on part toujours trop tard",
+ "bandeau": "Psycho en 30 s",
+ "numero": 11,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi je pars toujours à la dernière minute, et j'arrive en retard ?", "visuel": "chrono", "effet": "Vroum !", "mot_cle": "retard"},
+  {"perso": "gaston", "texte": "Parce que ton cerveau imagine le trajet parfait.", "visuel": "cerveau", "mot_cle": "parfait"},
+  {"perso": "gaston", "texte": "Pas de bouchon, pas de feu rouge, une place juste devant la porte.", "visuel": "route", "mot_cle": "bouchon"},
+  {"perso": "gaston", "texte": "Les chercheurs appellent ça l'erreur de planification. Même en sachant qu'on a déjà été en retard.", "visuel": "alerte", "effet": "Bam !", "mot_cle": "planification"},
+  {"perso": "gaston", "texte": "L'astuce : ne demande pas combien de temps ça devrait prendre. Demande combien ça a pris les dernières fois.", "visuel": "ampoule", "effet": "Clic !", "mot_cle": "dernières"},
+  {"perso": "pepite", "texte": "Donc vingt minutes, ça veut dire trente. Et toi, tu pars à quelle heure ?", "visuel": "duo", "mot_cle": "trente"}
+ ]
+}
