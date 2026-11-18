@@ -1,0 +1,34 @@
+{
+  "date": "18 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Habitude ratée : jamais deux fois de suite",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "pluie",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, j'ai raté mon footing ce matin ! Je fais quoi ? A, j'abandonne. B, je cours deux fois plus demain. Ou C ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! C : tu reprends demain, normalement. La règle : jamais deux fois de suite."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais j'ai cassé ma série ! Tout est fichu, non ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non. Un jour raté ne freine presque pas une habitude. Ce soir, pose juste tes baskets près de la porte."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mes baskets ? Gaston, j'ai quatre pneus !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Tu avais trouvé ? Dis-le en commentaire !"
+    }
+  ]
+}
