@@ -1,0 +1,15 @@
+{
+  "date": "18 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Payer en 3 ou 4 fois devient un crédit",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "En 2024, 17 % des dossiers de surendettement contenaient un paiement en plusieurs fois !"},
+    {"perso": "gaston", "texte": "D'où une nouvelle règle européenne. Dès vendredi, payer en 3 ou 4 fois devient un vrai crédit."},
+    {"perso": "pepite", "texte": "Concrètement, ça change quoi pour moi ?"},
+    {"perso": "gaston", "texte": "Le prêteur doit vérifier que tu peux rembourser. Même pour un achat de moins de 200 euros."},
+    {"perso": "pepite", "texte": "Plus de protection ou plus de paperasse ? Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
