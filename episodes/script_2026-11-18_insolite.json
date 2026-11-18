@@ -1,0 +1,18 @@
+{
+  "date": "18 novembre",
+  "titre": "Le saviez-vous ? avec Pépite et Gaston",
+  "sujet": "La banane est un peu radioactive",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "gaston", "texte": "Pépite, ta banane est radioactive."},
+    {"perso": "pepite", "texte": "Quoi ?! Mon goûter va me transformer en super-héroïne ?"},
+    {"perso": "gaston", "texte": "Non. Mais c'est vrai : la banane contient du potassium, et une toute petite partie de ce potassium est radioactive."},
+    {"perso": "pepite", "texte": "Je jette tout ! Je lâche la banane !"},
+    {"perso": "gaston", "texte": "Pas la peine. La dose est minuscule, et ton corps élimine le potassium en trop. Aucun danger."},
+    {"perso": "pepite", "texte": "Ouf. Donc je peux la manger tranquille ?"},
+    {"perso": "gaston", "texte": "Oui. D'ailleurs, ton propre corps aussi est un peu radioactif, à cause du même potassium."},
+    {"perso": "pepite", "texte": "Je brille dans le noir alors ! Et toi, tu savais que la banane était radioactive ? Dis-le en commentaire !"}
+  ]
+}
