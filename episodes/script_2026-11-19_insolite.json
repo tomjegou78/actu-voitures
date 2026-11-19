@@ -1,0 +1,17 @@
+{
+  "date": "19 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le miel qui ne périme jamais",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, quel aliment se garde plus de trois mille ans ? A, le pain, B, le miel, ou C, le fromage ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B, le miel."},
+    {"perso": "pepite", "texte": "Trois mille ans ? Impossible, mon goûter moisit en trois jours !"},
+    {"perso": "gaston", "texte": "Des archéologues ont trouvé du miel encore mangeable dans des tombes égyptiennes. Il a très peu d'eau et il est acide, alors les microbes n'y survivent pas."},
+    {"perso": "pepite", "texte": "Donc si je roule avec un pot de miel, je deviens immortelle ?"},
+    {"perso": "gaston", "texte": "Toi, non. Ta carrosserie, juste collante."},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
