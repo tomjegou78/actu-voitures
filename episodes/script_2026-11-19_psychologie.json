@@ -1,0 +1,63 @@
+{
+ "date": "19 novembre",
+ "titre": "La fin du voyage décide de tout",
+ "sujet": "Pourquoi on retient surtout la fin du voyage",
+ "bandeau": "Psycho en 30 s",
+ "numero": 12,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {
+   "perso": "pepite",
+   "texte": "Pourquoi un super road trip devient nul si le retour est pourri ?",
+   "visuel": "pepite",
+   "mot_cle": "retour"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Parce que ton cerveau ne garde pas tout le film du voyage.",
+   "visuel": "route",
+   "effet": "Zioum !",
+   "mot_cle": "film"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Il garde deux moments : le plus intense, et la fin.",
+   "visuel": "cerveau",
+   "effet": "Clic !",
+   "mot_cle": "fin"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Les chercheurs appellent ça la règle du pic et de la fin.",
+   "visuel": "alerte",
+   "mot_cle": "pic"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Dans une expérience, des gens ont préféré une douleur plus longue, juste parce qu'elle finissait plus doucement.",
+   "visuel": "cerveau",
+   "mot_cle": "doucement"
+  },
+  {
+   "perso": "gaston",
+   "texte": "La durée, elle, ne compte presque pas.",
+   "visuel": "chrono",
+   "mot_cle": "durée"
+  },
+  {
+   "perso": "gaston",
+   "texte": "L'astuce : garde une belle pause pour la fin du trajet.",
+   "visuel": "ampoule",
+   "effet": "Bam !",
+   "mot_cle": "pause"
+  },
+  {
+   "perso": "pepite",
+   "texte": "Et toi, c'est quoi la fin de voyage qui t'a tout gâché ?",
+   "visuel": "duo",
+   "mot_cle": "gâché"
+  }
+ ]
+}
