@@ -1,0 +1,15 @@
+{
+  "date": "19 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Progresser de 1 % par jour",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "gaston", "texte": "1 % de mieux chaque jour, et dans un an, tu es environ 37 fois meilleure."},
+    {"perso": "pepite", "texte": "37 fois ?! Juste avec 1 % ? C'est presque rien !"},
+    {"perso": "gaston", "texte": "Justement. Ce soir, choisis un seul petit progrès. Dix minutes, pas plus."},
+    {"perso": "pepite", "texte": "Alors demain, je démarre du premier coup. Après-demain, sans caler !"},
+    {"perso": "pepite", "texte": "Et toi, ton 1 % d'aujourd'hui, c'est quoi ? Dis-le en commentaire !"}
+  ]
+}
