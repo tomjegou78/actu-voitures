@@ -1,0 +1,42 @@
+{
+  "date": "19 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le radar pédagogique qui fait la tête",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Ce radar vient de me faire la tête !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Un radar pédagogique ? Tu roulais à combien ?"
+    },
+    {
+      "perso": "pepite",
+      "texte": "À trente ! Et il m'a mis un petit visage tout triste. Alors j'ai repassé à vingt, à dix, à deux. Toujours triste !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pépite. Ce n'est pas un radar. C'est l'écran de la boulangerie."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Ah. Et le visage triste, alors ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Plus de croissants."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Et tout le village qui klaxonnait derrière toi ?"
+    },
+    {
+      "perso": "pepite",
+      "texte": "Ils faisaient la queue pour les croissants ! Et toi, un panneau t'a déjà fait la tête ? Dis-le en commentaire !"
+    }
+  ]
+}
