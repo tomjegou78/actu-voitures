@@ -1,0 +1,18 @@
+{
+  "date": "19 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Relouer les passoires thermiques ?",
+  "bandeau": "L'actu politique",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! On va pouvoir relouer les passoires thermiques ?"},
+    {"perso": "gaston", "texte": "Les députés l'ont voté mardi, à 108 voix contre 102, contre l'avis du gouvernement."},
+    {"perso": "pepite", "texte": "Une passoire thermique, c'est une maison pleine de trous ?"},
+    {"perso": "gaston", "texte": "Non, un logement mal isolé, classé F ou G. Depuis 2025, les G sont interdits pour les nouveaux baux."},
+    {"perso": "pepite", "texte": "Et cet amendement du RN, il change quoi ?"},
+    {"perso": "gaston", "texte": "Il supprime ce calendrier d'interdictions. Mais rien ne change encore : députés et sénateurs doivent se mettre d'accord."},
+    {"perso": "pepite", "texte": "Donc d'un côté, plus de logements à louer. De l'autre, des locataires qui risquent d'avoir froid."},
+    {"perso": "gaston", "texte": "C'est tout le débat. Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
