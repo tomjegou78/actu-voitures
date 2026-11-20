@@ -1,0 +1,19 @@
+{
+ "date": "20 novembre",
+ "titre": "Le premier prix qui piège",
+ "sujet": "Pourquoi le premier prix nous piège",
+ "bandeau": "Psycho en 30 s",
+ "numero": 13,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Le vendeur annonce vingt mille euros, il baisse à quinze, et je crois faire une affaire !", "visuel": "pepite", "effet": "Bam !", "mot_cle": "affaire"},
+  {"perso": "gaston", "texte": "C'est l'effet d'ancrage. Le premier chiffre entendu devient ton point de repère.", "visuel": "cerveau", "mot_cle": "ancrage"},
+  {"perso": "gaston", "texte": "Ensuite, ton cerveau ajuste à partir de lui, mais jamais assez.", "visuel": "chrono", "effet": "Clic !", "mot_cle": "ajuste"},
+  {"perso": "gaston", "texte": "En 1974, des chercheurs ont fait tourner une roue truquée devant des volontaires.", "visuel": "alerte", "mot_cle": "roue"},
+  {"perso": "gaston", "texte": "Ceux qui tombaient sur un grand nombre donnaient des estimations bien plus hautes.", "visuel": "route", "mot_cle": "estimations"},
+  {"perso": "gaston", "texte": "L'astuce : fixe ton prix maximum avant d'entrer chez le vendeur.", "visuel": "ampoule", "effet": "Zioum !", "mot_cle": "avant"},
+  {"perso": "pepite", "texte": "Et toi, tu t'es déjà fait avoir par un premier prix ?", "visuel": "duo"}
+ ]
+}
