@@ -1,0 +1,17 @@
+{
+  "date": "20 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "Encadrement des loyers : deux ans de plus",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Quiz loyers ! L'encadrement des loyers protège combien de locataires ? A, 120 000. B, 1,2 million. Ou C, 12 millions ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B. Environ 1,2 million, dans près de 70 communes, comme Paris, Lyon ou Lille."},
+    {"perso": "pepite", "texte": "Mais ça ne devait pas s'arrêter ce mois-ci ?"},
+    {"perso": "gaston", "texte": "Si. Jeudi, le Parlement l'a prolongé de deux ans, jusqu'en 2028. Sans nouvelle ville."},
+    {"perso": "pepite", "texte": "Et tout le monde est d'accord ?"},
+    {"perso": "gaston", "texte": "Non. Pour la gauche, ça protège les locataires. Pour LR et le RN, ça freine l'investissement et la construction."},
+    {"perso": "pepite", "texte": "Et ma place de parking, personne ne l'encadre ! Tu avais trouvé ? Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
