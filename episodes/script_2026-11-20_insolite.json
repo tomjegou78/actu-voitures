@@ -1,0 +1,15 @@
+{
+  "date": "20 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le wombat fait des crottes en cube",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Un animal fait près de cent crottes en forme de cube par nuit ?!"},
+    {"perso": "gaston", "texte": "C'est vrai. C'est le wombat, un marsupial d'Australie."},
+    {"perso": "pepite", "texte": "Des cubes ? Il a un bac à glaçons dans le ventre ?"},
+    {"perso": "gaston", "texte": "Non. Son intestin a des zones dures et des zones souples, ça fait des coins. Et un cube ne roule pas : parfait pour marquer son territoire."},
+    {"perso": "pepite", "texte": "Des crottes qui se garent toutes seules ! Tu le savais ? Dis-le en commentaire !"}
+  ]
+}
