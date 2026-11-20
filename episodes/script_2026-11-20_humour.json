@@ -1,0 +1,34 @@
+{
+  "date": "20 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le conducteur perdu sur le parking",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, alerte ! J'ai perdu mon conducteur au supermarché !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Encore ? Ça fait vingt minutes qu'il tourne avec son caddie."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Je lui fais des appels de phares, je klaxonne, je clignote. Rien ! Il passe devant moi sans me voir !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Normal. Il cherche une voiture rouge en allée B."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais je suis rouge ! Ah. J'ai peut-être un peu bougé. Il y avait une place libre juste devant la boulangerie."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pépite. Une voiture ne se gare pas toute seule. Et toi, tu as déjà perdu ta voiture sur un parking ? Raconte en commentaire !"
+    }
+  ]
+}
