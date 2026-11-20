@@ -1,0 +1,18 @@
+{
+  "date": "20 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Perfectionnisme : oser la version moche",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, ça fait un mois que je veux lancer ma chaîne vidéo, et j'ai toujours zéro vidéo !"},
+    {"perso": "gaston", "texte": "Qu'est-ce qui te bloque ?"},
+    {"perso": "pepite", "texte": "Je veux que la première soit parfaite. Alors je n'en fais aucune."},
+    {"perso": "gaston", "texte": "Le parfait est l'ennemi du fait. Aujourd'hui, fais une version moche, exprès."},
+    {"perso": "pepite", "texte": "Moche ? Mais j'ai une réputation, moi ! Je suis rouge vernis !"},
+    {"perso": "gaston", "texte": "Une version moche, tu peux l'améliorer. Une vidéo qui n'existe pas, non."},
+    {"perso": "pepite", "texte": "D'accord. Vingt minutes, je filme, je publie, et j'améliore la suivante !"},
+    {"perso": "pepite", "texte": "Et toi, quel projet tu repousses parce qu'il n'est pas parfait ? Dis-le en commentaire !"}
+  ]
+}
