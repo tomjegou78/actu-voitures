@@ -1,0 +1,30 @@
+{
+  "date": "21 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Budget 2027 : le Sénat refuse de tout arrêter",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "249 voix contre 19 ! Le budget 2027 survit au Sénat !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Les communistes voulaient stopper l'examen. Droite et centre ont dit non, socialistes et écologistes se sont abstenus."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et pour mon porte-monnaie, ça change quoi ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Rien encore. Impôts, retraités, dépenses : tout se débat. Vote final le 9 décembre."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Débattre ou tout réécrire ? T'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
