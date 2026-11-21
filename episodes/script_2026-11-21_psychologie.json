@@ -1,0 +1,18 @@
+{
+ "date": "21 novembre",
+ "titre": "L'effet spectateur",
+ "sujet": "Pourquoi personne n'appelle les secours",
+ "bandeau": "Psycho en 30 s",
+ "numero": 14,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi tout le monde passe devant une voiture en panne sans s'arrêter ?", "visuel": "route", "mot_cle": "panne"},
+  {"perso": "gaston", "texte": "Parce que chacun pense qu'un autre a déjà appelé les secours.", "visuel": "alerte", "effet": "Chaos !", "mot_cle": "autre"},
+  {"perso": "gaston", "texte": "Plus on est nombreux, plus la responsabilité se dilue dans le cerveau.", "visuel": "cerveau", "mot_cle": "responsabilité"},
+  {"perso": "gaston", "texte": "En 1968, seuls, presque neuf témoins sur dix aidaient. Avec quatre autres, à peine un sur trois.", "visuel": "chrono", "effet": "Bam !", "mot_cle": "témoins"},
+  {"perso": "gaston", "texte": "L'astuce : désigne quelqu'un. Toi, en veste bleue, appelle le 112.", "visuel": "ampoule", "effet": "Clic !", "mot_cle": "désigne"},
+  {"perso": "pepite", "texte": "Et toi, tu t'es déjà dit que quelqu'un d'autre allait le faire ?", "visuel": "duo"}
+ ]
+}
