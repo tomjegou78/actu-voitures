@@ -1,0 +1,42 @@
+{
+  "date": "21 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Pépite essaie ses pneus neige",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, au secours ! Je dois choisir mes pneus neige et rien ne me va !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Des pneus, c'est des pneus. Tu prends ta taille."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Les premiers me grossissent des jantes, les deuxièmes font trop sport, les troisièmes grincent quand je souris !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Tu veux des pneus ou une robe de bal ?"
+    },
+    {
+      "perso": "pepite",
+      "texte": "Les deux ! Mais pas des tout blancs, je vais ressembler à une meringue !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pépite. Il neige. Tout est blanc."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais oui ! Je serai invisible ! Le garagiste ne me trouvera jamais pour la facture !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Trop tard. Il m'a donné la facture. Et chez toi, qui paie les pneus ? Dis-le en commentaire !"
+    }
+  ]
+}
