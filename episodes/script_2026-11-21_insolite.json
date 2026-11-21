@@ -1,0 +1,18 @@
+{
+  "date": "21 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "La 1re voiture à 100 km/h était électrique",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Il paraît que la première voiture à 100 km/h était électrique ?!"},
+    {"perso": "gaston", "texte": "C'est vrai. C'était en 1899, près de Paris."},
+    {"perso": "pepite", "texte": "Impossible ! En 1899, les voitures roulaient au pas, non ?"},
+    {"perso": "gaston", "texte": "Pas celle-là. Elle s'appelait la Jamais Contente. Elle a atteint 105 km/h."},
+    {"perso": "pepite", "texte": "Électrique, il y a plus de cent vingt ans ? Tu me fais marcher !"},
+    {"perso": "gaston", "texte": "Non. Batteries, deux moteurs électriques, et une carrosserie en forme d'obus."},
+    {"perso": "pepite", "texte": "Plus de cent ans d'avance et toujours pas contente. C'est moi, ça !"},
+    {"perso": "gaston", "texte": "Et toi, tu savais que l'électrique avait battu ce record ? Dis-le en commentaire !"}
+  ]
+}
