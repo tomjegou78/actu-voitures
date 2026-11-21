@@ -1,0 +1,38 @@
+{
+  "date": "21 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Multitâche : une seule chose à la fois",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "pluie",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, faire trois choses en même temps, ça fait gagner du temps ? A, oui. B, ça ne change rien. C, on en perd ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! C, on en perd."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Quoi ? Mais moi je révise, je réponds à mes messages et je regarde une série en même temps !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Ton cerveau ne fait pas tout à la fois. Il saute d'une tâche à l'autre, et chaque saut lui coûte du temps et de l'attention."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Ma méthode : choisis une seule tâche, téléphone dans une autre pièce, vingt-cinq minutes. Puis la suivante."
+    },
+    {
+      "perso": "pepite",
+      "texte": "D'accord. Mais je garde le droit de klaxonner et rouler en même temps !"
+    },
+    {
+      "perso": "pepite",
+      "texte": "Tu avais trouvé ? Dis-le en commentaire !"
+    }
+  ]
+}
