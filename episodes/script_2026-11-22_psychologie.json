@@ -1,0 +1,62 @@
+{
+ "date": "22 novembre",
+ "titre": "L'illusion de fréquence",
+ "sujet": "Pourquoi on voit sa voiture partout",
+ "bandeau": "Psycho en 30 s",
+ "numero": 15,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {
+   "perso": "pepite",
+   "texte": "Depuis que j'ai ma voiture rouge, j'en vois partout !",
+   "visuel": "pepite",
+   "effet": "Zioum !",
+   "mot_cle": "partout"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Il n'y en a pas plus qu'avant. C'est ton cerveau qui a changé.",
+   "visuel": "cerveau",
+   "mot_cle": "cerveau"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Il trie sans arrêt ce qu'il voit, et garde ce qui compte pour toi.",
+   "visuel": "alerte",
+   "effet": "Clic !",
+   "mot_cle": "trie"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Avant, elles passaient sous ton nez sans que tu les remarques.",
+   "visuel": "chrono",
+   "mot_cle": "remarques"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Et chaque voiture rouge repérée lui confirme qu'elles sont partout.",
+   "visuel": "route",
+   "mot_cle": "confirme"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Les chercheurs appellent ça l'illusion de fréquence.",
+   "visuel": "gaston",
+   "mot_cle": "illusion"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Le conseil : avant de dire que c'est partout, compte vraiment.",
+   "visuel": "ampoule",
+   "effet": "Bam !",
+   "mot_cle": "compte"
+  },
+  {
+   "perso": "pepite",
+   "texte": "Et toi, qu'est-ce que tu vois partout depuis peu ?",
+   "visuel": "duo"
+  }
+ ]
+}
