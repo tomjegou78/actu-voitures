@@ -1,0 +1,17 @@
+{
+  "date": "22 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Pourquoi le flamant rose est rose",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Quiz ! Pourquoi le flamant est rose ? A, il naît rose. B, à cause de ce qu'il mange. C, un coup de soleil ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B, ce qu'il mange."},
+    {"perso": "pepite", "texte": "Quoi ?! Arrête, je n'y crois pas une seconde !"},
+    {"perso": "gaston", "texte": "C'est vrai. Le poussin naît gris. Ses algues et ses petites crevettes sont pleines de pigments, et ces pigments teintent ses plumes."},
+    {"perso": "pepite", "texte": "Alors si je ne bois que du jus de tomate, je deviens encore plus rouge ?"},
+    {"perso": "gaston", "texte": "Toi, tu es déjà au maximum."},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
