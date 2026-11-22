@@ -1,0 +1,15 @@
+{
+  "date": "22 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Oser demander de l'aide",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! On croit qu'on va nous dire non deux fois trop souvent ?!"},
+    {"perso": "gaston", "texte": "Exact. Dans une étude, les gens pensaient devoir demander à deux fois plus de personnes qu'il n'en fallait vraiment."},
+    {"perso": "pepite", "texte": "Alors je peux demander de l'aide pour mon exposé sans passer pour une nulle ?"},
+    {"perso": "gaston", "texte": "Bien sûr. Une demande courte et précise, aujourd'hui. Et un vrai merci."},
+    {"perso": "pepite", "texte": "Et toi, tu oses demander de l'aide ? Dis-le en commentaire !"}
+  ]
+}
