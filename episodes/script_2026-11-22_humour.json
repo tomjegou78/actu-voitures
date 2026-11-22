@@ -1,0 +1,34 @@
+{
+  "date": "22 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le bouchon du dimanche soir",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Ça fait vingt minutes qu'on n'avance plus d'un centimètre !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Bouchon du dimanche soir. Classique."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais qui est le malin tout devant qui bloque toute la route ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pépite. Il n'y a personne devant. Le bouchon, c'est toi."
+    },
+    {
+      "perso": "pepite",
+      "texte": "J'attends que le pigeon finisse de traverser. Il hésite depuis vingt minutes."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Il vient de faire demi-tour. Et vous, vous attendez les pigeons ? Dites-le en commentaire !"
+    }
+  ]
+}
