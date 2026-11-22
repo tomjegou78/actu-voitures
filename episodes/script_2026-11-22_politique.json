@@ -1,0 +1,17 @@
+{
+  "date": "22 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Budget 2027 : l'effort demandé aux communes",
+  "bandeau": "L'actu politique",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Cinq milliards et demi demandés à nos mairies ?!"},
+    {"perso": "gaston", "texte": "Environ, oui. Aux communes, aux départements et aux régions, dans le budget 2027."},
+    {"perso": "pepite", "texte": "Pourquoi eux ? Moi, je ne partage jamais mon huile moteur !"},
+    {"perso": "gaston", "texte": "Le gouvernement veut qu'ils aident à baisser le déficit. Par exemple, l'État rembourserait moins de TVA sur certains travaux."},
+    {"perso": "pepite", "texte": "Et tout le monde est d'accord ?"},
+    {"perso": "gaston", "texte": "Non. La majorité du Sénat veut ramener l'effort à 2 ou 2,5 milliards. Les associations d'élus, elles, le chiffrent à plus de 9 milliards."},
+    {"perso": "pepite", "texte": "Ça va discuter fort au congrès des maires, mardi ! Et toi, t'en penses quoi ? Qui doit faire l'effort ? Dis-le en commentaire !"}
+  ]
+}
