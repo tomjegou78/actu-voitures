@@ -1,0 +1,30 @@
+{
+  "date": "23 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Saturne flotterait dans l'eau",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Une planète géante pourrait flotter dans l'eau ?!"
+    },
+    {
+      "perso": "gaston",
+      "texte": "C'est vrai. C'est Saturne, la planète aux anneaux, presque dix fois plus large que la Terre."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Elle est en polystyrène ou quoi ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non. Elle est faite surtout de gaz légers, l'hydrogène et l'hélium. Au total, elle est moins dense que l'eau."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Il faudrait juste une baignoire assez grande ! Tu le savais ? Dis-le en commentaire !"
+    }
+  ]
+}
