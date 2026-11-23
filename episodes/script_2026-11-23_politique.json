@@ -1,0 +1,38 @@
+{
+  "date": "23 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "Une règle d'or dans la Constitution ?",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "nuit",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Quiz ! La règle d'or budgétaire, c'est : A, un lingot caché, B, une règle pour équilibrer le budget, ou C, un code de la route ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! B. Une règle dans la Constitution pour ramener les comptes publics vers l'équilibre."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et pourquoi on en parle aujourd'hui ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Emmanuel Macron l'envisage, car les taux d'emprunt montent. Il faudrait trois cinquièmes du Parlement réuni en Congrès."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et les partis, ils sont d'accord ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Le centre, la droite et le RN sont plutôt pour, avec des réserves. La France insoumise craint que ça bride les futurs gouvernements."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Moi, ma règle d'or, c'est jamais rouler sur la réserve ! Tu avais trouvé ? Et toi, t'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
