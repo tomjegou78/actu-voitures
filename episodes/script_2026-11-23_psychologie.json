@@ -1,0 +1,19 @@
+{
+ "date": "23 novembre",
+ "titre": "Pourquoi on surestime sa propre voiture",
+ "sujet": "Pourquoi on surestime sa propre voiture",
+ "bandeau": "Psycho en 30 s",
+ "numero": 16,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi ma vieille voiture vaut une fortune, sauf pour l'acheteur ?", "visuel": "pepite", "effet": "Hein ?", "mot_cle": "fortune"},
+  {"perso": "gaston", "texte": "C'est l'effet de dotation. Dès qu'une chose est à toi, ton cerveau la surestime.", "visuel": "cerveau", "effet": "Clic !", "mot_cle": "surestime"},
+  {"perso": "gaston", "texte": "Dans une célèbre expérience, des chercheurs ont donné des tasses à des étudiants.", "visuel": "route", "mot_cle": "tasses"},
+  {"perso": "gaston", "texte": "Pour les revendre, ils demandaient environ deux fois plus que ce que les autres voulaient payer.", "visuel": "alerte", "effet": "Bam !", "mot_cle": "deux"},
+  {"perso": "gaston", "texte": "Perdre ce qu'on possède fait plus mal que gagner la même chose.", "visuel": "gaston", "mot_cle": "mal"},
+  {"perso": "gaston", "texte": "L'astuce : regarde les annonces de voitures identiques, et fixe ton prix avec elles.", "visuel": "ampoule", "mot_cle": "annonces"},
+  {"perso": "pepite", "texte": "Et toi, ta voiture, tu la vendrais à quel prix ?", "visuel": "duo", "mot_cle": "prix"}
+ ]
+}
