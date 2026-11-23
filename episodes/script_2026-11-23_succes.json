@@ -1,0 +1,46 @@
+{
+  "date": "23 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Le carnet des petites victoires",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, j'ai l'impression de rien réussir. Jamais !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Rien du tout ? Tu as démarré dans le froid ce matin."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Bah oui, mais ça, ça compte pas !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Justement si. Ton cerveau retient mieux les ratés que les réussites."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Alors je fais comment pour voir mes réussites ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Un carnet. Chaque soir, tu notes trois petites victoires. Même minuscules."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Victoire numéro un : pas glissé sur la neige. Victoire deux : toujours pas glissé !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Tu rigoles, mais c'est ça. Et dans une semaine, tu relis tout."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et toi, c'est quoi ta petite victoire du jour ? Dis-le en commentaire !"
+    }
+  ]
+}
