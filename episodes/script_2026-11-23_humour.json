@@ -1,0 +1,18 @@
+{
+  "date": "23 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le voyant mystère du tableau de bord",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! J'ai un voyant rouge inconnu sur mon tableau de bord !"},
+    {"perso": "gaston", "texte": "Calme-toi. Il ressemble à quoi ?"},
+    {"perso": "pepite", "texte": "Un petit rond rouge avec des points noirs. Mon moteur a attrapé la varicelle ?"},
+    {"perso": "gaston", "texte": "Non. Regarde dans ton manuel."},
+    {"perso": "pepite", "texte": "J'ai lu les trois cents pages, il n'y est pas ! Et en plus, il bouge tout seul !"},
+    {"perso": "gaston", "texte": "Un voyant qui bouge ? Approche un peu."},
+    {"perso": "pepite", "texte": "Ah ! Il vient de s'envoler ! Mon voyant s'est envolé, Gaston !"},
+    {"perso": "gaston", "texte": "C'était une coccinelle à l'abri de la pluie. Et vous, vous lisez votre manuel ? Dites-le en commentaire !"}
+  ]
+}
