@@ -1,0 +1,19 @@
+{
+ "date": "24 novembre",
+ "titre": "L'autre conducteur est un idiot",
+ "sujet": "Pourquoi l'autre conducteur est un idiot",
+ "bandeau": "Psycho en 30 s",
+ "numero": 17,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi celui qui me double est un idiot, mais moi quand je double, j'ai une bonne raison ?", "visuel": "route", "effet": "Zioum !", "mot_cle": "idiot"},
+  {"perso": "gaston", "texte": "C'est l'erreur fondamentale d'attribution.", "visuel": "cerveau", "effet": "Clic !", "mot_cle": "erreur"},
+  {"perso": "gaston", "texte": "Pour les autres, ton cerveau accuse leur caractère.", "visuel": "alerte", "mot_cle": "caractère"},
+  {"perso": "gaston", "texte": "Pour toi, il connaît le contexte : le retard, le stress, la fatigue.", "visuel": "chrono", "mot_cle": "contexte"},
+  {"perso": "gaston", "texte": "L'astuce : invente une bonne raison pour l'autre. Peut-être qu'il file à la maternité.", "visuel": "ampoule", "effet": "Bam !", "mot_cle": "raison"},
+  {"perso": "gaston", "texte": "Tu restes calme, et tu conduis mieux.", "visuel": "gaston", "mot_cle": "calme"},
+  {"perso": "pepite", "texte": "Bon, peut-être. Et toi, tu traites qui d'idiot au volant ?", "visuel": "duo"}
+ ]
+}
