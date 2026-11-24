@@ -1,0 +1,30 @@
+{
+  "date": "24 novembre",
+  "titre": "L'actu politique",
+  "sujet": "Loi logement : plus de pouvoir aux maires",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Objectif deux millions de logements d'ici 2030 ! Les députés votent la loi logement cet après-midi !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Et plus de pouvoir aux maires : pour un HLM, ils pourront refuser un candidat ou en proposer un autre."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Le maire aura son mot à dire ! Mais tout le monde est d'accord ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non. Le gouvernement y voit de la souplesse. La gauche craint du favoritisme."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Vote à 16h30 ! Et toi, t'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
