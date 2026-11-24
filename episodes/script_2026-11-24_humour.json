@@ -1,0 +1,16 @@
+{
+  "date": "24 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Les essuie-glaces qui démissionnent",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, alerte ! Mes essuie-glaces font la tête !"},
+    {"perso": "gaston", "texte": "Il pleut depuis trois jours. Ils travaillent, c'est tout."},
+    {"perso": "pepite", "texte": "Ils balaient de plus en plus lentement. Et ils soupirent à chaque passage !"},
+    {"perso": "gaston", "texte": "Tes balais sont usés. Il faut les changer."},
+    {"perso": "pepite", "texte": "Trop tard ! Ils ont démissionné. Ils m'ont laissé un mot sur le pare-brise : partis au soleil, bisous !"},
+    {"perso": "gaston", "texte": "Et chez toi, ils tiennent le coup ? Dis-le en commentaire !"}
+  ]
+}
