@@ -1,0 +1,18 @@
+{
+  "date": "24 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le premier feu rouge a explosé",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Le tout premier feu rouge a explosé ? Tu me fais marcher !"},
+    {"perso": "gaston", "texte": "Pas du tout. Londres, décembre 1868, juste devant le Parlement."},
+    {"perso": "pepite", "texte": "1868 ? Mais les voitures n'existaient même pas !"},
+    {"perso": "gaston", "texte": "Exact. Il servait à faire passer les calèches et les piétons."},
+    {"perso": "pepite", "texte": "Et pourquoi il a fait boum, ton feu ?"},
+    {"perso": "gaston", "texte": "La nuit, il s'allumait au gaz. Moins d'un mois après, une fuite, et boum. Le policier qui le manœuvrait a été blessé."},
+    {"perso": "pepite", "texte": "Bon. Moi, au feu rouge, je m'arrête. Mais de très loin !"},
+    {"perso": "gaston", "texte": "Et toi, tu savais que le feu rouge est plus vieux que la voiture ? Dis-le en commentaire !"}
+  ]
+}
