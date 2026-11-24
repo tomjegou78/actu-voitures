@@ -1,0 +1,16 @@
+{
+  "date": "24 novembre",
+  "titre": "Pépite et Gaston",
+  "sujet": "Transformer le trac en énergie",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, j'ai un oral demain et j'ai le trac ! Pour me calmer, je me dis : A, calme-toi, B, je suis excitée, ou C, je n'y pense pas ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B : je suis excitée."},
+    {"perso": "gaston", "texte": "Des chercheurs l'ont testé : dire à voix haute « je suis excité » aide à mieux parler en public que « calme-toi »."},
+    {"perso": "pepite", "texte": "Ah bon ? Mais mon moteur tremble quand même !"},
+    {"perso": "gaston", "texte": "Normal. Le trac, c'est de l'énergie. Souffle lentement, nomme-la, et sers-t'en."},
+    {"perso": "pepite", "texte": "Donc je ne cale pas, je fais vroum ! Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
