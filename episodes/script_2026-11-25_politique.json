@@ -1,0 +1,38 @@
+{
+  "date": "25 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Retraités : l'abattement fiscal raboté",
+  "bandeau": "L'actu politique",
+  "format": "dialogue",
+  "decor": "neige",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Ton petit cadeau fiscal de retraité pourrait fondre comme la neige !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Tu parles de l'abattement de 10 % ? Il réduit l'impôt sur les pensions. Aujourd'hui, il va jusqu'à 4 439 euros par foyer."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et mardi, le Sénat a voté quoi ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Un plafond à 1 000 euros, par 175 voix contre 161. Le gouvernement proposait 3 000 euros."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais pourquoi toucher aux retraités ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pour financer la hausse complète des pensions avec l'inflation. Le gouvernement voulait le supprimer. La gauche et le RN refusaient toute baisse."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et le budget 2027 n'est pas encore définitif ! Et toi, t'en penses quoi ? Dis-le en commentaire !"
+    }
+  ]
+}
