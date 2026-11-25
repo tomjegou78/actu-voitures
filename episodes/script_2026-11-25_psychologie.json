@@ -1,0 +1,19 @@
+{
+ "date": "25 novembre",
+ "titre": "L'effet de la porte",
+ "sujet": "Pourquoi on oublie en passant une porte",
+ "bandeau": "Psycho en 30 s",
+ "numero": 18,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi je file au garage chercher un truc et, devant la voiture, je ne sais plus quoi ?", "visuel": "alerte", "mot_cle": "garage", "effet": "Pouf !"},
+  {"perso": "gaston", "texte": "C'est l'effet de la porte. Des chercheurs de l'université Notre-Dame l'ont mesuré.", "visuel": "gaston", "mot_cle": "porte"},
+  {"perso": "gaston", "texte": "Ton cerveau découpe ta journée en petits épisodes, comme les scènes d'un film.", "visuel": "cerveau", "mot_cle": "épisodes", "effet": "Clac !"},
+  {"perso": "gaston", "texte": "Passer une porte, c'est changer de scène. Il range la scène d'avant, avec ton idée dedans.", "visuel": "cerveau", "mot_cle": "idée"},
+  {"perso": "gaston", "texte": "L'astuce : répète ton objectif à voix haute juste avant de franchir la porte.", "visuel": "ampoule", "mot_cle": "objectif", "effet": "Clic !"},
+  {"perso": "gaston", "texte": "Trop tard ? Retourne là où l'idée est née. Elle t'y attend souvent.", "visuel": "route", "mot_cle": "Retourne"},
+  {"perso": "pepite", "texte": "Bon, je retourne à la cuisine. Et toi, tu oublies quoi en passant une porte ?", "visuel": "duo", "mot_cle": "cuisine"}
+ ]
+}
