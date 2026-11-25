@@ -1,0 +1,30 @@
+{
+  "date": "25 novembre",
+  "titre": "Pépite et Gaston",
+  "sujet": "Apprendre en expliquant à voix haute",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Expliquer une leçon, ça aide plus à la retenir que la relire dix fois ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Oui. Pour expliquer, ton cerveau doit trier, reformuler et trouver ses trous."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais je n'ai personne à qui expliquer, moi !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Parle à voix haute, à une plante ou à moi. Là où tu bloques, tu revois."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Ce soir, j'explique les vitesses à mon rétro ! Et toi, à qui tu expliques ? Dis-le en commentaire !"
+    }
+  ]
+}
