@@ -1,0 +1,18 @@
+{
+  "date": "25 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le feu rouge qui ne passe jamais au vert",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, ça fait vingt minutes que ce feu est rouge !"},
+    {"perso": "gaston", "texte": "Patience. Un feu finit toujours par passer au vert."},
+    {"perso": "pepite", "texte": "J'ai eu le temps de compter mes boulons. J'en ai quarante-trois. Et deux en trop !"},
+    {"perso": "gaston", "texte": "Garde-les. On ne sait jamais."},
+    {"perso": "pepite", "texte": "Et s'il avait oublié le vert ? Un feu qui fait la sieste, ça existe ?"},
+    {"perso": "gaston", "texte": "Pépite. Regarde mieux ce feu."},
+    {"perso": "pepite", "texte": "Quoi ? Il est rond, il est rouge, il brille. C'est un feu ! Ah. Non. C'est le soleil qui se couche."},
+    {"perso": "gaston", "texte": "Vingt minutes devant le soleil. Ça t'est déjà arrivé, à toi ? Raconte en commentaire !"}
+  ]
+}
