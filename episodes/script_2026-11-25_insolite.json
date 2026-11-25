@@ -1,0 +1,17 @@
+{
+  "date": "25 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le Soleil qu'on voit a 8 minutes de retard",
+  "bandeau": "Le saviez-vous ?",
+  "format": "quiz",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Le Soleil met combien de temps à nous éclairer ? A, une seconde. B, huit minutes. C, un jour ?"},
+    {"perso": "gaston", "texte": "Réponse dans 3, 2, 1 ! B, environ huit minutes."},
+    {"perso": "pepite", "texte": "Huit minutes ?! Mais la lumière, ça va super vite !"},
+    {"perso": "gaston", "texte": "Oui, trois cent mille kilomètres par seconde. Mais le Soleil est à cent cinquante millions de kilomètres."},
+    {"perso": "gaston", "texte": "Donc le Soleil que tu vois, c'est celui d'il y a huit minutes."},
+    {"perso": "pepite", "texte": "Génial ! J'ai huit minutes d'avance pour mettre mes lunettes de soleil."},
+    {"perso": "pepite", "texte": "Tu avais trouvé ? Dis-le en commentaire !"}
+  ]
+}
