@@ -1,0 +1,30 @@
+{
+  "date": "26 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Un jeu de cartes jamais mélangé pareil",
+  "bandeau": "Le saviez-vous ?",
+  "format": "flash",
+  "decor": "pluie",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston ! Mes cartes sont dans un ordre jamais vu ?!"
+    },
+    {
+      "perso": "gaston",
+      "texte": "C'est vrai. Avec 52 cartes, il y a un nombre de 68 chiffres d'ordres possibles."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Soixante-huit chiffres ? C'est beaucoup ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "C'est plus que le nombre d'atomes de toute la Terre. Bien mélangé, ton ordre est sans doute unique."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Donc je suis une artiste ! Tu le savais ? Dis-le en commentaire !"
+    }
+  ]
+}
