@@ -1,0 +1,16 @@
+{
+  "date": "26 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "L'alarme mystère de trois heures du matin",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Réveille-toi ! Mon alarme a encore sonné à trois heures du matin !"},
+    {"perso": "gaston", "texte": "Encore ? C'est la troisième nuit."},
+    {"perso": "pepite", "texte": "Un voleur, c'est sûr ! Un voleur très poli, qui repart sans rien prendre. Toutes les nuits."},
+    {"perso": "gaston", "texte": "Ou alors, ce n'est pas ton alarme."},
+    {"perso": "pepite", "texte": "Pas mon alarme ? Mais ça fait un bruit énorme, comme un vieux moteur qui tousse !"},
+    {"perso": "gaston", "texte": "Oui. C'est moi. Je ronfle. Et toi, tu dors à côté de qui ? Dis-le en commentaire !"}
+  ]
+}
