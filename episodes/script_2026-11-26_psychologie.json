@@ -1,0 +1,19 @@
+{
+ "date": "26 novembre",
+ "titre": "L'idée qui arrive au lavage",
+ "sujet": "Pourquoi l'idée arrive en lavant la voiture",
+ "bandeau": "Psycho en 30 s",
+ "numero": 19,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {"perso": "pepite", "texte": "Pourquoi la bonne idée arrive toujours pendant que je lave ma voiture ?", "visuel": "pepite", "effet": "Pling !", "mot_cle": "idée"},
+  {"perso": "gaston", "texte": "Parce qu'une tâche facile laisse ton esprit vagabonder.", "visuel": "cerveau", "mot_cle": "vagabonder"},
+  {"perso": "gaston", "texte": "Pendant ce temps, ton cerveau continue de mâcher le problème en coulisses.", "visuel": "cerveau", "mot_cle": "coulisses"},
+  {"perso": "gaston", "texte": "Des chercheurs de Santa Barbara l'ont testé en 2012.", "visuel": "chrono", "mot_cle": "chercheurs"},
+  {"perso": "gaston", "texte": "Après une pause sur une tâche facile, les gens trouvaient plus d'idées.", "visuel": "alerte", "effet": "Bam !", "mot_cle": "facile"},
+  {"perso": "gaston", "texte": "L'astuce : tu bloques ? Va marcher ou laver la voiture, et garde un carnet.", "visuel": "ampoule", "effet": "Clic !", "mot_cle": "carnet"},
+  {"perso": "pepite", "texte": "Et toi, ta meilleure idée, elle t'est venue où ?", "visuel": "duo", "mot_cle": "meilleure"}
+ ]
+}
