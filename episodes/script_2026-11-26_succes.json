@@ -1,0 +1,42 @@
+{
+  "date": "26 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Dire non pour protéger ses priorités",
+  "bandeau": "Mindset",
+  "format": "dialogue",
+  "decor": "pluie",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Gaston, j'ai dit oui à tout le monde et je n'ai plus une minute pour moi !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Chaque oui aux autres, c'est un non à tes projets."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais si je dis non, ils vont me trouver méchante !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Pas si tu dis non au service, pas à la personne. « Pas cette semaine, mais merci d'avoir pensé à moi. »"
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et quand on me prend par surprise, je réponds oui par réflexe !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Alors dis : « Je regarde mon agenda et je te réponds demain. » Ça te laisse le temps de choisir."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Bon, je teste ! Gaston, tu m'abrites de la pluie ce soir ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Hum, je regarde mon agenda. Et toi, à quoi tu vas dire non cette semaine ? Dis-le en commentaire !"
+    }
+  ]
+}
