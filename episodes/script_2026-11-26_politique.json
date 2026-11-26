@@ -1,0 +1,38 @@
+{
+  "date": "26 novembre",
+  "titre": "L'actu racontée par les voitures",
+  "sujet": "Parrainages : faut-il revenir à l'anonymat ?",
+  "bandeau": "L'actu politique",
+  "format": "quiz",
+  "decor": "coucher",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Quiz ! Pour être candidat à la présidentielle, il faut combien de signatures d'élus ? A, 50, B, 500, ou C, 5 000 ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! B, 500 signatures, venues d'au moins 30 départements."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Et les noms de ceux qui signent, c'est secret ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Non, depuis 2017 les noms sont publiés. Et selon un sondage, un maire sur deux n'envisage pas de signer."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Moi, je te parraine, Gaston ! Et je le klaxonne partout ! Ça va changer ?"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Rien n'est voté. Le RN et l'association des maires veulent l'anonymat, LFI propose 150 000 parrainages citoyens, d'autres défendent la transparence."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Secret, citoyen ou public, t'en penses quoi ? Tu avais trouvé ? Dis-le en commentaire !"
+    }
+  ]
+}
