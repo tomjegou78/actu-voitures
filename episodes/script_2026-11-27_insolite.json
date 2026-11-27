@@ -1,0 +1,18 @@
+{
+  "date": "27 novembre",
+  "titre": "Le saviez-vous ?",
+  "sujet": "Le koala a des empreintes comme nous",
+  "bandeau": "Le saviez-vous ?",
+  "format": "dialogue",
+  "decor": "coucher",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Le koala aurait les mêmes empreintes digitales que nous ? N'importe quoi !"},
+    {"perso": "gaston", "texte": "C'est pourtant vrai. Des chercheurs australiens l'ont montré dans les années 1990."},
+    {"perso": "pepite", "texte": "Attends, des vraies petites boucles au bout des doigts, comme les humains ?"},
+    {"perso": "gaston", "texte": "Oui. Même au microscope, on a du mal à les distinguer des nôtres."},
+    {"perso": "pepite", "texte": "Mais le koala, ce n'est même pas un singe ! C'est un cousin du kangourou !"},
+    {"perso": "gaston", "texte": "Justement. Il les a inventées tout seul, sans doute pour bien agripper les branches et les feuilles."},
+    {"perso": "pepite", "texte": "Donc si je laisse une trace sur ta vitre, tu accuseras un koala ?"},
+    {"perso": "gaston", "texte": "Non, toi tu laisses des traces de pneus. Et toi, tu le savais ? Dis-le en commentaire !"}
+  ]
+}
