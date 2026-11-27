@@ -1,0 +1,51 @@
+{
+ "date": "27 novembre",
+ "titre": "Le biais de négativité",
+ "sujet": "Pourquoi on retient le seul chauffard du jour",
+ "bandeau": "Psycho en 30 s",
+ "numero": 20,
+ "style": "carnet",
+ "format": "narration",
+ "decor": "nuit",
+ "lignes": [
+  {
+   "perso": "pepite",
+   "texte": "Cent conducteurs polis aujourd'hui. Et je ne parle que de celui qui m'a coupé la route !",
+   "visuel": "route",
+   "effet": "Tût !",
+   "mot_cle": "coupé"
+  },
+  {
+   "perso": "gaston",
+   "texte": "C'est le biais de négativité. Ton cerveau donne plus de poids au mauvais qu'au bon.",
+   "visuel": "cerveau",
+   "mot_cle": "négativité"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Pour nos ancêtres, rater un danger coûtait bien plus cher que rater un bon moment.",
+   "visuel": "alerte",
+   "effet": "Bam !",
+   "mot_cle": "danger"
+  },
+  {
+   "perso": "gaston",
+   "texte": "Alors une mauvaise surprise reste gravée, et les cent gestes gentils s'effacent.",
+   "visuel": "gaston",
+   "mot_cle": "gravée"
+  },
+  {
+   "perso": "gaston",
+   "texte": "L'astuce : le soir, rappelle-toi exprès un bon moment du trajet, et savoure-le quelques secondes.",
+   "visuel": "ampoule",
+   "effet": "Clic !",
+   "mot_cle": "exprès"
+  },
+  {
+   "perso": "pepite",
+   "texte": "Moi, j'ai eu trois feux verts d'affilée. Et toi, ton meilleur moment sur la route ?",
+   "visuel": "duo",
+   "mot_cle": "verts"
+  }
+ ]
+}
