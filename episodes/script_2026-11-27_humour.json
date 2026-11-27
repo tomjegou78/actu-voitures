@@ -1,0 +1,18 @@
+{
+  "date": "27 novembre",
+  "titre": "Le sketch du jour",
+  "sujet": "Le klaxon qui fait coin-coin",
+  "bandeau": "Le sketch du jour",
+  "format": "dialogue",
+  "decor": "campagne",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston ! Écoute mon nouveau klaxon. Coin-coin !"},
+    {"perso": "gaston", "texte": "C'est ton klaxon, ça ?"},
+    {"perso": "pepite", "texte": "Le garagiste s'est trompé de pièce ! J'ai klaxonné un camion ce matin, il a éclaté de rire."},
+    {"perso": "gaston", "texte": "Retourne au garage. Ça se change."},
+    {"perso": "pepite", "texte": "Impossible ! Depuis, une maman cane me suit partout. Elle est même montée sur mon toit !"},
+    {"perso": "gaston", "texte": "Pépite. Elle vient de pondre un œuf."},
+    {"perso": "pepite", "texte": "Je suis maman ?! Gaston, tu seras le parrain !"},
+    {"perso": "gaston", "texte": "Parrain, d'accord. Et vous, quel prénom pour l'œuf ? En commentaire."}
+  ]
+}
