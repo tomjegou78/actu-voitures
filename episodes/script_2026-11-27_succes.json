@@ -1,0 +1,34 @@
+{
+  "date": "27 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Un objectif précis plutôt qu'un vœu flou",
+  "bandeau": "Mindset",
+  "format": "quiz",
+  "decor": "campagne",
+  "lignes": [
+    {
+      "perso": "pepite",
+      "texte": "Quel objectif a le plus de chances d'être tenu ? A : je vais lire plus. B : dix pages chaque soir après le dîner. C : cinquante livres cette année."
+    },
+    {
+      "perso": "gaston",
+      "texte": "Réponse dans 3, 2, 1 ! C'est la B."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Mais la C, c'est plus ambitieux !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Trop loin, trop flou au quotidien. La B dit quoi, combien et quand. Ton cerveau sait exactement quoi faire ce soir."
+    },
+    {
+      "perso": "pepite",
+      "texte": "Alors moi : dix minutes de rangement chaque soir après le dîner. Mon coffre va enfin respirer !"
+    },
+    {
+      "perso": "gaston",
+      "texte": "Parfait. Et coche chaque soir réussi dans un carnet. Tu avais trouvé ? Dis-le en commentaire !"
+    }
+  ]
+}
