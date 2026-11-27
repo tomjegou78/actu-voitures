@@ -1,0 +1,15 @@
+{
+  "date": "27 novembre",
+  "titre": "L'actu politique racontée par les voitures",
+  "sujet": "La France en récession technique",
+  "bandeau": "L'actu politique",
+  "format": "flash",
+  "decor": "neige",
+  "lignes": [
+    {"perso": "pepite", "texte": "Moins 0,2 % ! La France est en récession ?!"},
+    {"perso": "gaston", "texte": "Récession technique. Deux trimestres de suite où l'économie recule. L'Insee l'a confirmé ce matin."},
+    {"perso": "pepite", "texte": "Et concrètement, ça change quoi ?"},
+    {"perso": "gaston", "texte": "Le gouvernement visait 0,5 % de croissance cette année. On en est à 0,1. Et moins de croissance, c'est moins de recettes pour le budget 2027."},
+    {"perso": "pepite", "texte": "Et toi, t'en penses quoi ? Dis-le en commentaire !"}
+  ]
+}
