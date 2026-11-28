@@ -1,0 +1,15 @@
+{
+  "date": "28 novembre",
+  "titre": "Pépite & Gaston",
+  "sujet": "Bloquer un créneau pour son projet",
+  "bandeau": "Mindset",
+  "format": "flash",
+  "decor": "nuit",
+  "lignes": [
+    {"perso": "pepite", "texte": "Gaston, une semaine, c'est 168 heures, et je n'ai jamais le temps pour ma guitare !"},
+    {"perso": "gaston", "texte": "Parce que ta guitare n'a pas de rendez-vous. Donne-lui un créneau."},
+    {"perso": "pepite", "texte": "Un rendez-vous avec une guitare ?"},
+    {"perso": "gaston", "texte": "Oui. Vingt minutes, trois soirs par semaine, notés dans ton agenda. Et tu t'y tiens comme chez le dentiste."},
+    {"perso": "pepite", "texte": "Ce soir, 20 h, c'est noté ! Et toi, tu bloques quel créneau ? Dis-le en commentaire !"}
+  ]
+}
